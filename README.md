@@ -1,0 +1,1125 @@
+# Pose Prompts
+
+A curated collection of 80 reference pose images paired with detailed descriptive prompts for image generation and editing models.
+
+---
+
+## Pose 1
+
+<p align="center">
+  <a href="images/1.png">
+    <img src="images/1.png" alt="Pose 1" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a quadruped, all-fours stance resting on both knees and palms. The torso is horizontal and extended forward with a slight inward arch in the lower back and the hips raised. Both arms are extended straight downward from the shoulders, supporting the upper body with the palms placed flat on the ground and fingers facing forward. The thighs are positioned vertically beneath the hips, knees bent at approximately right angles on the floor, with the lower legs and feet extending backward. The head is held upright, angled toward a three-quarter perspective facing slightly down and forward. Body weight is distributed evenly between the knees, shins, and flat palms.
+```
+
+---
+
+## Pose 2
+
+<p align="center">
+  <a href="images/2.png">
+    <img src="images/2.png" alt="Pose 2" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an upright seated posture angled in a three-quarter view toward the left, with the weight settled primarily on the hips and buttocks. The torso is held straight with the chest lifted and shoulders relaxed backward. The head is oriented toward a three-quarter angle, aligned slightly downward and facing left. Both arms extend straight down alongside the torso and slightly behind the hips, with the hands resting flat against the seat on either side to help brace the upper body. The legs are crossed at the knees, with the right leg draped over the left. The lower left leg extends vertically downward with the left foot planted firmly on the ground, while the right lower leg extends diagonally downward and outward to the left, keeping the right foot suspended just above the floor with the toes angled forward.
+```
+
+---
+
+## Pose 3
+
+<p align="center">
+  <a href="images/3.png">
+    <img src="images/3.png" alt="Pose 3" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an upright floor-sitting posture facing forward with a subtle three-quarter angle. The torso is held straight and vertical, with the chest open, shoulders drawn slightly back, and weight distributed centrally across the hips and pelvis on the ground. The head is oriented forward, tilted ever so slightly to the left. Both arms hang naturally downward alongside the torso, extending toward the floor just behind the hips with hands placed against the ground to brace the back. The lower body is arranged in an asymmetrical, folded kneeling sit: the left leg is bent inward across the front with the knee turned outward and the lower leg sweeping horizontally inward so the foot rests near the center, while the right leg is tucked back and to the side with the bent knee resting on the surface and the lower leg angled outward and backward.
+```
+
+---
+
+## Pose 4
+
+<p align="center">
+  <a href="images/4.png">
+    <img src="images/4.png" alt="Pose 4" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a prone, lying-down position angled in a three-quarter perspective, with the body resting flat along the ground from the pelvis down and the upper torso propped upward. The weight is supported through the hips, lower abdomen, forearms, and elbows resting against the ground. The head is oriented slightly downward and tilted in a three-quarter angle facing toward the left. Both arms are bent at the elbows and positioned under the chest, with forearms angled inward along the floor and hands resting palm-down, overlapping slightly in front of the chest. The hips are pressed to the surface while the legs extend straight back together along the ground, with both knees slightly soft and feet lightly pointed backward, ankles resting close to each other.
+```
+
+---
+
+## Pose 5
+
+<p align="center">
+  <a href="images/5.png">
+    <img src="images/5.png" alt="Pose 5" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a three-quarter rear perspective with her body angled away and her upper torso rotated back toward the viewer. Her spine displays a gentle, arched curve in an upright contrapposto stance, shifting the primary weight onto her left leg and hip to accentuate the lateral curve of the pelvis and waist. Her head is turned smoothly over her right shoulder to face three-quarters in profile, with a subtle downward tilt of the chin. Her right arm hangs relaxed along her right side, extending downward with softly curled fingers, while her left arm is bent sharply at the elbow with the hand resting securely against the left hip. The right side of the chest is partially visible in profile beyond the rotated shoulder, and the lower torso and hips are captured from behind at a mid-thigh framing.
+```
+
+---
+
+## Pose 6
+
+<p align="center">
+  <a href="images/6.png">
+    <img src="images/6.png" alt="Pose 6" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a low, forward-facing crouch with knees spread widely outward to either side. Her torso is leaned forward from the hips, keeping an upright chest orientation centered directly toward the viewer. Both arms extend straight downward between her parted knees, with hands reaching toward the ground and fingers extended lightly in front of the center line. Her legs are deeply bent at the knees in a wide squat, resting weight onto the balls of her feet and toes, while her head remains upright and oriented straight ahead toward the viewer.
+```
+
+---
+
+## Pose 7
+
+<p align="center">
+  <a href="images/7.png">
+    <img src="images/7.png" alt="Pose 7" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated side-saddle position on the ground, facing forward with her upper body upright and subtly leaning backward. Both legs are bent at the knees and tucked together to her right side, with the outer sides of her thighs and lower legs resting flat against the surface. Her left arm is extended straight down and slightly behind her hip to brace her weight, with the palm pressed flat against the ground and fingers spread slightly outwards. Her right arm is raised with the elbow bent sharply, bringing her right hand upward to lightly rest against the side of her head. Her head is tilted slightly toward her right shoulder and oriented toward the viewer. Her weight is distributed between her hips grounded on the floor and her extended left arm supporting her upper torso.
+```
+
+---
+
+## Pose 8
+
+<p align="center">
+  <a href="images/8.png">
+    <img src="images/8.png" alt="Pose 8" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclined side-lying position, resting on her right hip, outer right thigh, and right forearm. Her upper body is slightly propped up, with her right elbow bent against the surface and her right hand raised to cup the side of her head, tilting her head gently to the right as she faces forward. Her left arm crosses across her midsection, forearm angled downward with the left palm resting flat against the surface in front of her torso. Her right leg is extended along the ground, gently bent at the knee. Her left leg is raised and bent sharply at the knee, with the left foot planted behind the right lower leg. Her body weight is supported primarily along the right forearm, right hip, and outer right thigh.
+```
+
+---
+
+## Pose 9
+
+<p align="center">
+  <a href="images/9.png">
+    <img src="images/9.png" alt="Pose 9" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a kneeling, upright seated stance with her body facing forward, angled slightly toward the three-quarter view. Her weight is settled directly onto her folded lower legs, with both knees resting on the surface spread moderately apart and her feet tucked beneath her hips, the left foot extending back to the side. Her torso is held erect and slightly arched, presenting a clear frontal view of her chest, midriff, and hips. Both arms are raised symmetrically, bent sharply at the elbows pointing outward and slightly upward, with her hands tucked behind the back of her head. Her neck is straight and her head is held upright, facing forward with a very subtle tilt.
+```
+
+---
+
+## Pose 10
+
+<p align="center">
+  <a href="images/10.png">
+    <img src="images/10.png" alt="Pose 10" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a prone, lying-down position on her stomach, oriented horizontally in profile facing toward the left side. Her upper torso is slightly elevated and propped up by her bent arms, with her elbows resting flat on the ground and her hands folded together in front of her chest. Her pelvis and thighs rest flat against the surface, anchoring her lower body, while her spine has a gentle upward arch leading to an upright head that faces forward toward the viewer. Both legs are bent upward at the knees at roughly right angles, lifting the lower legs and feet into the air with the soles angled toward the ceiling.
+```
+
+---
+
+## Pose 11
+
+<p align="center">
+  <a href="images/11.png">
+    <img src="images/11.png" alt="Pose 11" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a quadrupedal all-fours position with her weight balanced evenly between her hands and knees. The torso is angled downward and forward toward the ground, with the hips elevated higher than the shoulders and a slight natural arch through the spine. Both arms are fully extended straight downward from the shoulders, with the palms pressed flat against the floor and the fingers spread forward. The lower body is supported on bent knees spaced hip-width apart, with the thighs extending downward from the pelvis and the shins resting flat along the ground, extending straight back with the tops of the feet touching the floor. The neck is held upright and the head is oriented toward a three-quarter front view, facing forward toward the viewer.
+```
+
+---
+
+## Pose 12
+
+<p align="center">
+  <a href="images/12.png">
+    <img src="images/12.png" alt="Pose 12" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a front-facing, symmetrical deep squat with her weight balanced entirely on the balls of her feet, heels elevated off the ground. Her hips are dropped low, centered between her legs, with her thighs flared wide apart horizontally and knees bent sharply outward. The lower legs angle inward slightly toward the grounded toes. Her torso is held upright and vertically centered. Both arms are raised symmetrically with elbows bent outward horizontally at shoulder level. Her forearms angle upward and inward, with both hands cupping the sides of her head. Her head faces directly forward, perfectly level and aligned with the center axis of her body.
+```
+
+---
+
+## Pose 13
+
+<p align="center">
+  <a href="images/13.png">
+    <img src="images/13.png" alt="Pose 13" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a semi-reclined position viewed from a three-quarters rear perspective, resting prone with her lower body while propping her upper torso upright. Her weight is distributed between her lower pelvis and thighs against the surface and her extended arm, which is planted vertically with the palm flat on the ground beside her torso to support her elevated chest. Her spine is arched and gently twisted, angling her shoulders away from the viewer. Both legs are extended straight back along the surface, resting nearly parallel with relaxed feet. Her head is rotated away toward the side, following the orientation of her turned torso, presenting the back and profile of her neck and head.
+```
+
+---
+
+## Pose 14
+
+<p align="center">
+  <a href="images/14.png">
+    <img src="images/14.png" alt="Pose 14" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a symmetrical, supine straddle stretch, reclining backward with the body's weight balanced across the pelvis and lower spine. The torso is elevated and faces squarely forward, with the head aligned centrally and upright. Both legs are raised and opened wide into an inverted straddle, with the knees bent outward and the lower legs extending diagonally upward so that the soles of the feet point toward the upper corners of the frame. The arms extend outward and slightly forward from the shoulders, with the hands grasping the outer sides of the knees to hold and stabilize the flexed leg position.
+```
+
+---
+
+## Pose 15
+
+<p align="center">
+  <a href="images/15.png">
+    <img src="images/15.png" alt="Pose 15" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to viewed directly from behind, sitting on the floor in a symmetrical, upright kneeling posture. Her torso is held vertically erect with a straight spine, and her shoulders are level and relaxed. Both arms extend downward along the sides of her torso, with elbows slightly tucked and hands resting forward out of view. Her hips and pelvis are lowered toward the ground between or on top of her folded legs, centering her body weight evenly across the seat and shins. Her knees are bent sharply and flare outward to either side, with her lower legs folded inward underneath her so the soles of her feet turn slightly inward toward the center, forming a stable, low base. Her head is centered evenly between her shoulders, facing straight ahead away from the viewer.
+```
+
+---
+
+## Pose 16
+
+<p align="center">
+  <a href="images/16.png">
+    <img src="images/16.png" alt="Pose 16" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an extreme wide-legged forward fold with the upper body lowered close to the ground and the hips elevated high in the air. The legs are extended widely apart in a deep straddle stance with the feet planted on the floor and knees slightly flexed. The pelvis is tilted sharply upward, arching the spine into a steep downward slope toward the ground. The head is oriented downward and tilted slightly forward, resting low between the shoulders. Both arms are bent at the elbows and resting flat against the surface in front of the chest, with the forearms folded inward and hands crossed directly beneath the head, evenly distributing the body's weight across the planted feet, elbows, and forearms.
+```
+
+---
+
+## Pose 17
+
+<p align="center">
+  <a href="images/17.png">
+    <img src="images/17.png" alt="Pose 17" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a kneeling back-arch posture viewed from a three-quarter rear perspective, resting on widely separated knees with her shins and feet grounded behind her. The pelvis is elevated slightly above the heels, while the spine curves into a pronounced backward extension, lifting and expanding the chest upward. Her upper torso is supported by straightened arms extending downward toward the ground, distributing her weight evenly between the knees, shins, and braced hands. Her neck is extended backward, tilting the head upward and slightly away.
+```
+
+---
+
+## Pose 18
+
+<p align="center">
+  <a href="images/18.png">
+    <img src="images/18.png" alt="Pose 18" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an all-fours kneeling stance viewed from a low, three-quarter rear perspective. Her weight is supported primarily on her bent knees and hands, with her hips elevated and arched upward toward the viewer. The lower legs extend backward along the ground, with both bare feet visible and pointing rearward, soles slightly upturned. Her torso angles downward and forward toward the ground, with a noticeable arch through the lower spine. Her arms are positioned forward beneath her upper body to support her weight, with the right arm partially visible extending down toward the floor. Her head is tilted downward and slightly turned away to the right, obscuring the facial features and showing the back and side of the head and neck.
+```
+
+---
+
+## Pose 19
+
+<p align="center">
+  <a href="images/19.png">
+    <img src="images/19.png" alt="Pose 19" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a kneeling and sitting posture where she rests on her folded legs, with her shins and the tops of her feet pressed against the floor. Her hips are lowered back toward her heels, curving her spine into an upright, gently arched back. Her torso is angled in a three-quarter view, with her shoulders relaxed yet lifted as her arms extend straight downward between and slightly to the sides of her knees. Both hands are planted firmly on the ground with fingers spread, bearing a portion of her upper body's weight. Her head is tilted slightly toward her left shoulder while facing forward, balancing the weight distribution evenly between her folded lower limbs and the palms bracing against the ground.
+```
+
+---
+
+## Pose 20
+
+<p align="center">
+  <a href="images/20.png">
+    <img src="images/20.png" alt="Pose 20" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an all-fours kneeling stance where her body is positioned in a three-quarters perspective facing forward. Her weight is supported across her knees and hands, with her hips elevated higher than her chest and shoulders. Both arms are held straight and angled slightly forward from the shoulders, supporting the upper torso with the palms pressed flat against the ground and fingers spread forward. Her spine dips slightly into a gentle arch, lowering the chest toward the surface while raising the pelvis. Her legs are bent at the knees, which rest on the ground spaced apart; the right knee is positioned forward and angled outward with the foot resting behind it, toes planted, while the opposite knee is tucked beneath the hips. Her head is angled downward and turned slightly forward toward the front, with the neck inclined in line with the forward tilt of the upper back.
+```
+
+---
+
+## Pose 21
+
+<p align="center">
+  <a href="images/21.png">
+    <img src="images/21.png" alt="Pose 21" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to lying prone on her stomach with her upper body propped up. Her weight is distributed across her lower chest, pelvis, and elbows resting firmly on the ground. Both arms are bent at acute angles at the elbows, bringing the forearms upward so that her hands cup her chin and cheeks to support her head. Her head is angled slightly forward, facing straight ahead. Her spine has a gentle natural arch from the lifted torso down to the hips. Her thighs rest flat against the surface, while both lower legs bend upward at the knees, elevating the shins and feet into the air with the ankles extended and toes pointed upward.
+```
+
+---
+
+## Pose 22
+
+<p align="center">
+  <a href="images/22.png">
+    <img src="images/22.png" alt="Pose 22" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclining position lying on her right side with her upper torso propped up. Her head is turned slightly down and tilted toward a three-quarter view facing forward. Her upper body is elevated off the ground, supported by her right arm, which is bent at the elbow with the forearm resting on the surface and the hand flat on the ground pointing forward. Her left arm extends diagonally across her body, with her left hand resting gently over her lower legs near the shins and ankles. Her hips and legs are stacked together and extended to the side, with the knees slightly bent as the legs rest flat against the ground. The body's weight is distributed along the right hip, outer right thigh, and the right forearm supporting the upper torso.
+```
+
+---
+
+## Pose 23
+
+<p align="center">
+  <a href="images/23.png">
+    <img src="images/23.png" alt="Pose 23" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to sitting on the ground, leaning slightly back and angled toward her left, supporting her upper body weight on her straight left arm with her left palm planted flat on the surface behind her hip and fingers splayed outward. Her torso is upright with a gentle arch in the spine, while her head is tilted subtly downward and turned toward the front-right. Her right arm is bent at the elbow, extending down across the abdomen so her right hand rests comfortably atop her right knee. Both legs are bent at the knees and folded toward her right side; her right leg is bent with the knee slightly raised and pointing forward, while the left leg rests lower along the ground, tucked closely beneath and beside the right leg, with both bare feet resting side-by-side on the floor pointing toward the lower left.
+```
+
+---
+
+## Pose 24
+
+<p align="center">
+  <a href="images/24.png">
+    <img src="images/24.png" alt="Pose 24" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a four-point kneeling posture, viewed from a rear three-quarter angle. Her body is supported on all fours, with weight distributed across her palms, knees, and shins. Her hips are elevated high with a pronounced inward arch along the spine, dipping the lower back toward the floor. Both thighs are set vertically beneath the pelvis, with her lower legs extending straight back along the surface, soles facing upward and toes resting lightly. Her straight arms extend downward from the shoulders with wrists planted firmly beneath the chest, and her head is lifted, tilted slightly forward and turned toward the side in a three-quarter profile.
+```
+
+---
+
+## Pose 25
+
+<p align="center">
+  <a href="images/25.png">
+    <img src="images/25.png" alt="Pose 25" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to kneeling on the ground in a front-facing, symmetrical posture, with her knees spread wide apart and her hips lowered toward the floor between her legs in a W-sitting (seiza-like) variation. Her torso is upright but leaning slightly forward, with both arms extended straight downward between her thighs. Her wrists are held close together, and both hands rest flat on the ground between her knees with fingers splayed forward, bearing partial upper-body weight. Her shoulders are slightly pulled forward and inward, framing her chest. Her head is held upright and centered, facing directly forward toward the viewer with a neutral tilt.
+```
+
+---
+
+## Pose 26
+
+<p align="center">
+  <a href="images/26.png">
+    <img src="images/26.png" alt="Pose 26" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclined, floor-sitting position where her upper body leans backward and angles slightly to her left, supported primarily by her straight left arm extended downward behind her with the palm resting flat on the ground. Her head is tilted slightly forward and turned downward toward her right side. Her right arm is bent at the elbow with her right hand resting casually atop her raised right knee. Her legs are arranged in a relaxed cross-seated posture on the floor: the left leg is bent and folded horizontally along the ground with the foot tucked beneath, while the right leg is pulled closer to the torso with the knee bent sharply upward and the right foot resting flat against the floor. Her body weight is distributed between her hips on the ground and her braced left arm, creating a gentle twist through the torso and an arched, upright chest.
+```
+
+---
+
+## Pose 27
+
+<p align="center">
+  <a href="images/27.png">
+    <img src="images/27.png" alt="Pose 27" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a four-point kneeling stance resting on hands and knees, with her torso angled forward and downward. Her hips are raised high with her knees deeply flexed beneath her pelvis, thighs angled forward, and lower legs tucked back with feet resting against the ground. Her spine curves downward from the elevated pelvis toward the upper body, bringing her chest close to the surface. Both arms are extended downward and slightly outward from the shoulders, with elbows slightly braced and hands planted firmly on the ground with fingers spread forward to bear the upper body weight. Her neck is tilted forward and her head is angled downward toward the floor, slightly turned toward her right shoulder. The body weight is distributed between her flat palms in front and her knees and shins supporting the lower body behind.
+```
+
+---
+
+## Pose 28
+
+<p align="center">
+  <a href="images/28.png">
+    <img src="images/28.png" alt="Pose 28" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated, slightly reclined position on the ground, leaning her upper body back onto her left hand, which is planted flat on the floor behind her hip with the left arm kept straight. Her torso is angled toward her three-quarter right while gently twisting forward, with her chest lifted and shoulders angled. Her right arm is raised upward with the elbow bent sharply, positioning her right hand resting behind the back of her head or nape. Her head is tilted slightly forward and angled toward the viewer. For the lower body, her weight rests primarily on her left hip and buttocks; her right leg is bent and raised slightly across the lap, extending forward with the right knee pointing toward the left and the foot angled flat near the floor, while her left leg is bent underneath and tucked inward to the side.
+```
+
+---
+
+## Pose 29
+
+<p align="center">
+  <a href="images/29.png">
+    <img src="images/29.png" alt="Pose 29" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to lying prone on her stomach, propping her upper torso slightly off the ground by resting both forearms and elbows firmly on the surface. Her head is oriented facing straight forward toward the viewer, gently cradled between both hands, with the palms or fingers supporting her jawline and cheeks. Her back has a slight natural arch, extending down through the hips. Her legs extend backward along the ground and bend sharply upward at the knees at roughly a 90-degree angle, elevating her lower legs and feet into the air. Her ankles cross slightly, displaying the soles of both bare feet pointing upward. The primary weight distribution rests across her elbows, forearms, lower pelvis, and thighs.
+```
+
+---
+
+## Pose 30
+
+<p align="center">
+  <a href="images/30.png">
+    <img src="images/30.png" alt="Pose 30" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a side-seated floor posture, where she is kneeling with both legs folded together and swept back toward her left side, thighs aligned forward and resting on the ground with her feet tucked neatly to the rear right. Her torso is held upright with a gentle backwards lean and a slight three-quarter turn toward the front-left, supported from behind by her extended left arm, which reaches downward and slightly back with the palm resting flat on the ground to bear part of her upper body weight. Her right arm rests subtly against the opposite side of her torso. Her weight is centered primarily through her folded thighs, knees, and hips on the floor, counterbalanced by the planted hand. Her head is held in a slight forward and downward tilt, facing forward at a subtle three-quarter angle in line with her torso.
+```
+
+---
+
+## Pose 31
+
+<p align="center">
+  <a href="images/31.png">
+    <img src="images/31.png" alt="Pose 31" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a low, forward-leaning kneeling position where her torso is angled downward and turned slightly toward three-quarters view. Her head is tilted forward and down, facing toward the ground. Both arms extend straight downward between her thighs, with the palms of her hands placed flat against the floor side-by-side, fingers pointing forward. Her lower body is seated close to the ground, with her left leg bent back underneath her hip, shin resting flat against the floor, and toes pointed backward. Her right leg is bent outward at a wide angle with the knee raised and pointed sideways, while the lower leg folds underneath her hips. Her weight is distributed between her folded lower legs and her outstretched arms, supporting her leaned-forward torso.
+```
+
+---
+
+## Pose 32
+
+<p align="center">
+  <a href="images/32.png">
+    <img src="images/32.png" alt="Pose 32" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to sitting on the floor with her back and hips angled toward the viewer in a three-quarter rear perspective, with her weight grounded through her pelvis and thighs. Her legs are spread wide apart in a low, seated straddle on the floor, with her left thigh extending outward to the right of the frame and her right leg bent back toward the left, feet resting flat or angled against the ground. Her torso is upright with an arched lower back, twisting slightly at the waist so her chest faces toward the right in profile. Her right arm is positioned slightly behind her side, while her left arm extends downward in front to help brace her upright posture. Her head is turned back over her right shoulder to look in the direction of the viewer.
+```
+
+---
+
+## Pose 33
+
+<p align="center">
+  <a href="images/33.png">
+    <img src="images/33.png" alt="Pose 33" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a supine crunch position, lying on her back with her upper torso and shoulders curled forward and elevated off the ground. Her body is viewed from a three-quarters perspective. Both legs are bent sharply at the knees, drawn upward with thighs angled toward the torso and shins angled downward so both feet rest flat together on the surface. Her hips, buttocks, and lower back support her lower body weight, while core engagement lifts the shoulder blades. Both arms are bent with elbows raised outward and forward, and hands positioned behind the head or base of the neck. Her head is tilted slightly forward, following the curve of the curling spine with the face directed forward and slightly downward toward the knees.
+```
+
+---
+
+## Pose 34
+
+<p align="center">
+  <a href="images/34.png">
+    <img src="images/34.png" alt="Pose 34" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a kneeling, bowed posture viewed from behind at a low angle. The woman is on her knees with her hips lifted high into the air, while her torso slopes downward toward the ground. Her knees are set on the surface, with the lower legs extending back and the balls of her feet and toes tucked against the floor, exposing the soles of both feet. Her upper body is lowered, resting weight forward onto bent arms with her elbows and forearms supporting her chest near the ground. Her head is angled low and turned slightly to the side, maintaining a bowed alignment with the downward-sloping spine.
+```
+
+---
+
+## Pose 35
+
+<p align="center">
+  <a href="images/35.png">
+    <img src="images/35.png" alt="Pose 35" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated posture resting directly on the ground, angled in a three-quarter view toward the left. Her torso is upright with a subtle forward lean, while her head faces forward, tilted slightly downward. Both legs are drawn inward with the knees bent and raised; the right leg crosses closely over the left at the shin and ankle, with both bare feet resting flatly alongside each other toward the lower left. Her arms are crossed snugly over the top of her raised knees, with the elbows bent and forearms resting horizontally against her lower chest and upper shins. Her full body weight is distributed across her hips and lower seat against the surface.
+```
+
+---
+
+## Pose 36
+
+<p align="center">
+  <a href="images/36.png">
+    <img src="images/36.png" alt="Pose 36" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclining position resting on her side with her upper torso propped up and angled slightly toward the ground in a three-quarter view. Her right elbow is planted firmly on the surface with the forearm raised vertically, cradling the side of her tilted head in her right hand. Her head is angled downward and turned subtly toward the viewer. Her left arm extends diagonally across the front of her torso, resting with the palm flat against the ground to assist with balance. Her hips rest against the ground with both legs bent at the knees and stacked, folded backward to the side. Her body weight is primarily distributed across her right forearm and elbow, her left hand, and the side of her lower torso and thighs.
+```
+
+---
+
+## Pose 37
+
+<p align="center">
+  <a href="images/37.png">
+    <img src="images/37.png" alt="Pose 37" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an all-fours, crawling stance viewed from a low, three-quarter rear perspective. The torso is angled downward and slightly forward, with the back arched and hips raised prominently higher than the shoulders. Her weight is supported primarily on her bent knees and shins resting on the ground, with both feet extended backward displaying the soles and toes pointed toward the viewer. The left knee is positioned slightly forward while the right leg is tucked alongside. Her right arm is extended downward to the ground with fingers splayed to support the upper body, while the left arm is positioned slightly further forward, mostly obscured by the torso. Her head is turned away toward the front right, facing forward and tilted slightly downward relative to the raised pelvis.
+```
+
+---
+
+## Pose 38
+
+<p align="center">
+  <a href="images/38.png">
+    <img src="images/38.png" alt="Pose 38" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a wide-kneeling, forward-leaning seated posture facing directly toward the viewer. The torso is angled slightly forward from the hips, with the shoulders raised and pulled slightly inward. Both arms extend straight down between the thighs, with hands planted flat on the floor directly in front of the pelvis, fingers splayed and pointing forward/inward to support the upper body's weight. The legs are bent at the knees and spread wide apart in a deep kneeling stance, with the thighs angling outward to either side and the knees resting on the surface. The head is positioned upright, facing forward with a very subtle downward tilt toward the viewer, and the body's weight is balanced between the knees/lower legs and the hands braced on the floor.
+```
+
+---
+
+## Pose 39
+
+<p align="center">
+  <a href="images/39.png">
+    <img src="images/39.png" alt="Pose 39" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to reclining on her back with her torso slightly angled, resting her weight along her upper back, hips, and left arm. Her head is tilted slightly forward and turned toward the side, facing away from the viewer. Her left arm is extended straight along the ground parallel to her lower body, forearm and open palm pressed flat against the surface for support. Both of her legs are elevated off the ground and drawn in toward her chest, bent sharply at the knees, with the forward leg raised prominently upward and the other leg bent closely behind it, holding her feet suspended in the air.
+```
+
+---
+
+## Pose 40
+
+<p align="center">
+  <a href="images/40.png">
+    <img src="images/40.png" alt="Pose 40" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclined, side-seated posture on the ground, leaning her upper body backward at an angle while supporting her weight on her straightened left arm. Her left hand is placed flat against the floor with fingers pointing outward, while the torso is tilted back and slightly rotated toward the viewer. Her head is tilted slightly forward and turned downward to her right. Her hips are planted on the ground, with both legs bent deeply at the knees and folded together to the right side; the right leg rests on top with the knee pointed outward, and the lower legs are tucked back with the feet stacked near each other. Her overall weight is distributed between her left palm on the surface and her hips and outer thighs resting on the ground.
+```
+
+---
+
+## Pose 41
+
+<p align="center">
+  <a href="images/41.png">
+    <img src="images/41.png" alt="Pose 41" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to kneeling in a forward-leaning W-sitting posture, with her knees spread wide apart and her lower legs bent backward, flaring outward to the sides with feet extended outward flat along the surface. Her torso is angled slightly forward with an upright, gently arched spine, distributing her weight primarily across her knees, shins, and seat, while lightly supported by her hands in front. Both arms extend straight downward between her thighs, positioned closely together with wrists touching and hands resting flat against the ground. Her shoulders are set softly forward, and her head is tilted downward and slightly angled toward her left shoulder.
+```
+
+---
+
+## Pose 42
+
+<p align="center">
+  <a href="images/42.png">
+    <img src="images/42.png" alt="Pose 42" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a three-quarter back view, seated on the ground with her torso upright and slightly arched. Her head is turned over her right shoulder to look back, revealing the angle of the jaw and neck. The spine displays an elongated S-curve, with the upper back and shoulders turned subtly while the right arm extends downward beside the torso for balance. The lower body is resting in a folded, side-sitting position where the hips and buttocks take the primary weight on the floor. Her left leg is tucked back toward the left with the foot resting flat against the surface, while the right leg bends forward at the knee, sweeping the lower leg and foot across the front to stabilize the seated posture.
+```
+
+---
+
+## Pose 43
+
+<p align="center">
+  <a href="images/43.png">
+    <img src="images/43.png" alt="Pose 43" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a graceful, seated position on the floor with her torso angled in a three-quarter view toward the viewer. Her weight is supported primarily on her hips and folded legs. Her right leg is tucked underneath her body, resting flat along the ground with the foot pointing toward the lower left. Her left leg is bent acutely at the knee, raised vertically with the thigh angled inward across the lower torso and the left foot planted firmly forward on the ground. Her upper body twists slightly, showing an upright, elongated spine with a gentle contrapposto curve. Her right arm is raised and bent sharply at the elbow, bringing her hand up beside her temple with fingers loosely poised near the ear. Her left arm extends downward along the side of her body, resting lightly behind her hip for balance. Her head is tilted slightly forward and turned subtly toward the right, maintaining a relaxed yet poised alignment with the neck and shoulders.
+```
+
+---
+
+## Pose 44
+
+<p align="center">
+  <a href="images/44.png">
+    <img src="images/44.png" alt="Pose 44" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclined, seated floor pose where the torso is propped upright and angled slightly toward her left, supported from behind by her left arm extended downward with the open palm resting flat on the ground. Her right arm extends downward across her body, with the forearm resting gently near the base of her right hip. Her head is tilted slightly forward and angled subtly toward her left shoulder, facing downward toward the viewer. The weight is distributed across her hips and left hand, with the right leg folded flat against the ground, knee bent sharply outward to her right and the lower leg tucked inward. Her left leg is raised and drawn close to the center of the body, bent acutely at the knee so the lower leg extends downward with the foot planted flat and forward-facing on the ground.
+```
+
+---
+
+## Pose 45
+
+<p align="center">
+  <a href="images/45.png">
+    <img src="images/45.png" alt="Pose 45" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a three-quarter back view, standing with her torso angled slightly to the left while looking back over her left shoulder toward the viewer. Her head is tilted slightly downward and turned, showing the curve of the neck and back. Her upper body features an arched back with the shoulders pulled back; the left arm extends downward along the side with the elbow bent and the hand brought inward near the front waist, while the right arm hangs alongside the torso with the forearm flexed slightly forward. The hips are tilted and pushed backward, shifting the majority of the body weight onto her straight left leg, which is planted flat on the ground. Her right leg is extended slightly behind and crossed subtly inward, resting primarily on the ball and toes of the foot with the heel lifted, creating an elegant S-curve through the spine and legs.
+```
+
+---
+
+## Pose 46
+
+<p align="center">
+  <a href="images/50.png">
+    <img src="images/50.png" alt="Pose 46" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated position on the ground, with her torso angled in a three-quarter view toward the right and leaning slightly backward. Her weight is supported primarily on her hips and her straight right arm, which extends down and out to the side with the palm flat on the ground. Both of her legs are bent at the knees and drawn upward toward her chest, extending forward and down to the right with both feet placed flat together against the floor. Her left arm is bent across the front of her body, resting her left forearm and hand over her raised right knee. Her shoulders are relaxed with the right shoulder dropped slightly lower, and her head is turned forward and subtly tilted toward her left shoulder.
+```
+
+---
+
+## Pose 47
+
+<p align="center">
+  <a href="images/51.png">
+    <img src="images/51.png" alt="Pose 47" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a kneeling position where she sits upright on her folded legs with her weight settled back onto her shins and heels. Her torso is held straight and vertical, angled slightly toward the viewer. Her head is held high and tilted subtly toward her right side, facing primarily forward. Both shoulders are relaxed, with her arms extended downward along the front of her torso. Her forearms angle inward, bringing both hands to rest flat and palms-down atop her thighs just above the knees, with her fingers gently extended and nearly touching. Her thighs and knees are kept together, bent fully beneath her with the lower legs tucked under, while her feet extend backward beneath her hips to support her seated posture.
+```
+
+---
+
+## Pose 48
+
+<p align="center">
+  <a href="images/52.png">
+    <img src="images/52.png" alt="Pose 48" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a side-reclining position resting on her right hip and outer thigh, with her upper torso elevated and leaning slightly back. Her upper body is propped up by her right arm, which bends at the elbow with the forearm pressed against the ground and the hand laid flat, fingers extended forward. Her left arm extends down across her midsection, with the forearm resting along her waist and the palm laid flat over the side of her upper left hip, fingers pointing downward. Both legs are stacked on their sides and drawn up slightly with the knees bent at roughly a right angle, calves aligned parallel to each other, and feet resting together in a relaxed extension. Her neck is held upright, and her head is turned toward her left, looking sideways away from the supporting arm.
+```
+
+---
+
+## Pose 49
+
+<p align="center">
+  <a href="images/53.png">
+    <img src="images/53.png" alt="Pose 49" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a full, compact crouch where she balances her weight low on both feet placed flat and close together on the ground. Her knees are deeply bent and pulled tightly up against her chest, with her thighs pressed close to her torso. Her upper body leans forward slightly in a huddled posture, with her shoulders rounded forward. Her arms are wrapped securely around her bent legs, with both forearms crossing directly over the front of her shins to hold the limbs close against her body. Her head is held centered and upright, facing directly forward toward the viewer.
+```
+
+---
+
+## Pose 50
+
+<p align="center">
+  <a href="images/54.png">
+    <img src="images/54.png" alt="Pose 50" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated position on the ground with her lower body angled and her legs folded to one side. Her weight is anchored on her hips and supported by her right arm, which extends downward and slightly away from the torso with the fingers resting on the floor beside her. Her left arm is raised with the elbow bent sharply outward and upward, placing the left hand behind the crown of her head. Her torso is held upright with a subtle lateral lean, while her head is tilted gently toward her right shoulder facing forward. Her knees are bent and stacked closely together in front, with the lower legs swept back and feet resting flat against the surface.
+```
+
+---
+
+## Pose 51
+
+<p align="center">
+  <a href="images/55.png">
+    <img src="images/55.png" alt="Pose 51" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to lying flat on her back in a relaxed supine position, with her head tilted backward and turned slightly to her left, chin raised upward and resting against the surface. Her right arm is extended straight out along the ground away from her head, with the fingers loosely curled. Her left arm is bent acutely at the elbow along her side, forearm resting horizontally across her abdomen with the hand resting over her torso. Both legs are bent at the knees, pointing upward, with the feet planted below; the near foot is plantarflexed with the heel elevated and toes touching the ground. Her body weight is evenly distributed across her upper back, shoulders, pelvis, back of the head, and feet.
+```
+
+---
+
+## Pose 52
+
+<p align="center">
+  <a href="images/56.png">
+    <img src="images/56.png" alt="Pose 52" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a forward-leaning kneeling position where she rests on folded knees while supporting her upper body with both straight arms. Her legs are bent tightly beneath her with the shins and tops of the feet pressed toward the ground, shifting the lower body weight backward onto the knees and folded thighs. Her torso is angled diagonally upward, extending with a slight arch in the lower back and an open, lifted chest. Both arms are fully extended downward in front of the torso, palms planted flat on the floor with fingers splayed to bear the weight of the upper body. The shoulders are held back, leading into an upright neck, while the head is held erect, facing forward with a slight tilt toward her right shoulder.
+```
+
+---
+
+## Pose 53
+
+<p align="center">
+  <a href="images/57.png">
+    <img src="images/57.png" alt="Pose 53" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated, cross-legged position on the ground, viewed from a front-facing perspective with the upper body and head turned slightly toward her left. Her weight is settled primarily on her hips and pelvis, with the torso held upright yet naturally relaxed. Both legs are bent at the knees and folded flat against the surface in a classic cross-legged posture, with the ankles crossed—the left foot tucked slightly under the right leg and the right foot resting in front. Her left arm extends downward along the side of her torso, resting beside her hip to offer balance. Her right arm crosses diagonally over her lower torso, with the right hand resting lightly atop her left knee. Her neck is upright, and her head is turned to a three-quarter angle facing toward the right side of the frame, tilted very subtly downward.
+```
+
+---
+
+## Pose 54
+
+<p align="center">
+  <a href="images/58.png">
+    <img src="images/58.png" alt="Pose 54" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a reclined sitting position on the floor, supporting her upper body weight primarily on her pelvis and her straight left arm, which is extended downward behind her hip with the palm planted flat and fingers splayed. Her torso is held upright with a slight backward lean, angled at a three-quarters perspective toward the front. Her right arm is kept close along the side of her body. Her left leg extends forward across the ground with a soft bend at the knee and the foot pointed, while her right leg is bent at an acute angle with the knee raised high and the foot rested flat on the floor behind the outstretched leg. Her neck is elongated and her head is turned toward her right shoulder, facing downward and forward in the direction of her outstretched leg.
+```
+
+---
+
+## Pose 55
+
+<p align="center">
+  <a href="images/59.png">
+    <img src="images/59.png" alt="Pose 55" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a half-kneeling stance facing forward with her torso upright and head turned straight toward the viewer. Her left knee is bent and resting directly on the ground, supporting a significant portion of her weight with the left lower leg extending back and the foot tucked with toes planted on the floor. Her right leg is bent sharply at the knee with the thigh angled outward and forward, placing the right foot flat on the ground to provide balance. Her right arm is bent at the elbow, resting the forearm and relaxed hand across her elevated right knee, with fingers loosely draped downward. Her left arm hangs down naturally along the left side of her body, straight and relaxed, with the hand loosely open beside the left thigh. Her shoulders are squared and slightly relaxed, with weight balanced between the grounded left knee and the firmly planted right foot.
+```
+
+---
+
+## Pose 56
+
+<p align="center">
+  <a href="images/60.png">
+    <img src="images/60.png" alt="Pose 56" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to reclining on her left side with her upper torso propped up at a diagonal angle. Her weight is distributed across her outer left hip, the side of her left thigh, and her left arm, which extends downward with the palm resting flat on the surface and fingers spread to support her upper body. Her torso is rotated slightly forward toward the viewer, maintaining a gentle arch along the spine. Her right arm is raised with the elbow bent sharply overhead, curling upward so her right hand rests against the crown and back of her head. Her head is held facing directly forward toward the viewer with a neutral, upright alignment. Both legs are held together, bent at the knees in a relaxed, stacked position toward the side, with the thighs extending forward and the lower legs and feet resting gently aligned on top of each other.
+```
+
+---
+
+## Pose 57
+
+<p align="center">
+  <a href="images/61.png">
+    <img src="images/61.png" alt="Pose 57" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a seated position viewed from a three-quarter rear angle, with her weight settled firmly onto the floor through her hips and supported by her right arm, which extends downward and slightly behind her torso with the palm and fingers resting flat on the ground. Her upper body is held upright with a subtle counter-twist through the spine, and her head is rotated sharply to her right to look over her right shoulder. Her left arm extends forward and downward, resting along the side of her lap. Both legs are bent at the knees and tucked beneath her in a side-seated position, with the left thigh extending outward to the right and the lower leg folded inward to reveal the upturned sole of the foot, while the right foot is tucked beneath the folded leg with the toes resting against the ground.
+```
+
+---
+
+## Pose 58
+
+<p align="center">
+  <a href="images/62.png">
+    <img src="images/62.png" alt="Pose 58" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a rigid, upright, front-facing neutral standing posture with her weight distributed evenly across both feet. Her head and torso are aligned straight ahead without any tilt, rotation, or lean, and her shoulders are level and relaxed. Both arms hang naturally straight down alongside the flanks of her torso, held slightly away from the hips, with the elbows relaxed, forearms extended, and hands open with fingers gently pointing downward toward the floor. Her legs are held straight and vertical, positioned closely together with ankles touching and both feet parallel, pointed directly forward flat on the ground.
+```
+
+---
+
+## Pose 59
+
+<p align="center">
+  <a href="images/63.png">
+    <img src="images/63.png" alt="Pose 59" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a graceful standing contrapposto stance with the body angled in a three-quarter view toward the left. Her weight is supported primarily on her right leg, which is held straight and grounded firmly, causing her right hip to kick subtly outward. Her left leg is relaxed, bent at the knee, and drawn slightly backward and inward, resting lightly on the ball of the foot behind the right ankle. The torso exhibits an S-curve twist, leaning subtly toward her left. Her left arm is elevated, with the elbow pointing outward to the side and the left hand resting gently near the back of her head or nape. Her right arm hangs loosely down alongside the right hip and thigh, slightly extended away from the torso with relaxed, open fingers pointing downward. Her head is tilted slightly toward her right shoulder and turned forward, aligning naturally with the dynamic flow of the spine.
+```
+
+---
+
+## Pose 60
+
+<p align="center">
+  <a href="images/64.png">
+    <img src="images/64.png" alt="Pose 60" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a standing three-quarter stance turned toward the right, held in an upright, poised posture with both heels elevated as if standing on tiptoe. Her head is turned slightly toward the right, aligned with her chest and held level. Her torso is subtly elongated with the right hip cocked slightly outward. Her right arm is bent sharply at the elbow, placing her right hand firmly against her waist and hip with the fingers facing forward. Her left arm hangs relaxed and straight down along the side of her body, with the wrist and fingers resting naturally in a gentle, downward curl. Her legs are positioned closely together in a straight, streamlined alignment, with the weight balanced centrally along the vertical axis over the balls of both pointed feet.
+```
+
+---
+
+## Pose 61
+
+<p align="center">
+  <a href="images/65.png">
+    <img src="images/65.png" alt="Pose 61" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a graceful, dance-like stance where her entire body weight is balanced solely on her straight right leg, with the right foot planted firmly facing forward. Her left leg is elevated with the knee bent at approximately a ninety-degree angle, pointing forward and slightly outward, while the lower left leg extends horizontally backward with the foot pointed. Her torso is turned slightly toward the right in a subtle counterpose, with the chest lifted and hips angled. Her right arm is raised gracefully overhead with the elbow bent sharply outward, bringing her right hand to rest lightly near the crown of her tilted head. Her left arm is extended fluidly downward and away from the side of the body, held outward with soft elbows and relaxed, downward-pointing fingers. Her head is tilted gently back and toward her right shoulder, completing an open, poised, and elegant full-body curve.
+```
+
+---
+
+## Pose 62
+
+<p align="center">
+  <a href="images/66.png">
+    <img src="images/66.png" alt="Pose 62" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to standing facing forward with an upright, elongated posture. Her head is held high, oriented straight ahead in line with her torso. Both arms are raised above her head with bent elbows framing the upper body in a diamond shape; the right forearm crosses over the left just above the crown of the head, with the wrists gently overlapping and fingers extended softly. The torso is aligned vertically with square shoulders. Her legs are held straight and close together, with feet pointing forward and weight evenly distributed between both legs in a balanced, grounded stance.
+```
+
+---
+
+## Pose 63
+
+<p align="center">
+  <a href="images/67.png">
+    <img src="images/67.png" alt="Pose 63" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a standing, front-facing posture with her legs tightly crossed at the shins and knees, where the right leg crosses directly in front of the left leg, both extending straight down to plant their bare feet flat on the floor. Her torso faces forward with the hips aligned. Her left arm is bent horizontally across the midriff with the forearm resting beneath the right arm, and her left hand cupping just below the right elbow. Her right arm is raised and bent sharply across her chest, with the fingers of her right hand resting gently on her left shoulder and collarbone. Her neck is tilted downward and to her right, causing her head to angle down toward her right shoulder in a relaxed, contemplative tilt.
+```
+
+---
+
+## Pose 64
+
+<p align="center">
+  <a href="images/68.png">
+    <img src="images/68.png" alt="Pose 64" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a three-quarter back view standing in an upright, poised stance with her head turned fully in profile toward the left and chin held level. Her torso is straight with a subtle arch in the lower back and shoulders drawn back. Both hands rest firmly on the hips with wrists flexed, fingers facing inward, and elbows flared outward to the sides and slightly back. Her weight is predominantly supported on the straight front leg, which is planted vertically with the foot flat on the ground. The trailing rear leg is extended backward with a soft bend at the knee, heel lifted high, and the foot arched so that only the ball of the foot and toes lightly touch the floor.
+```
+
+---
+
+## Pose 65
+
+<p align="center">
+  <a href="images/69.png">
+    <img src="images/69.png" alt="Pose 65" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an upright standing posture with legs crossed and a gentle contrapposto curve through the torso. Her head is tilted noticeably toward her left shoulder with her face angled slightly downward. Her right arm is raised and bent sharply at the elbow, bringing her right hand up to rest flat across her upper chest just below the collarbone, with fingers loosely spread. Her left arm hangs straight and relaxed down along the left side of her body, terminating in an open, naturally draped hand beside the upper thigh. Her hips are subtly angled, with her right leg crossing directly in front of her left leg at the thighs and knees. Both feet are grounded facing forward, with the front right foot stepping slightly forward of the supporting left foot, distributing the body weight across a stable yet slender cross-legged stance.
+```
+
+---
+
+## Pose 66
+
+<p align="center">
+  <a href="images/70.png">
+    <img src="images/70.png" alt="Pose 66" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to standing in a three-quarters rightward-facing stance with her weight planted primarily on her straight left leg. Her torso is arched backward slightly with an elongated neck, and her head is tilted back and angled upward toward the upper right. Her right arm is raised and bent sharply at the elbow, bringing her hand up to rest lightly along the top or back of her head. Her left arm hangs straight down along the side of her body with the elbow relaxed and fingers lightly curved. Her right leg is crossed in front of her left, bent at the knee, with her right foot raised so that the toes point downward near the shin of the supporting left leg, creating a graceful contrapposto curve through her hips and spine.
+```
+
+---
+
+## Pose 67
+
+<p align="center">
+  <a href="images/71.png">
+    <img src="images/71.png" alt="Pose 67" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to an upright kneeling posture where her weight is supported directly on both knees and shins, with her lower legs extending straight backward and the tops of her feet resting flat along the surface. Her hips are pushed forward so her thighs stand vertically, lifting her seat off the heels and supporting an upright torso that features a gentle backward arch and an open chest turned in a three-quarter orientation. Her neck is extended, tilting her head backward and upward with the chin elevated. Both arms are bent deeply at the elbows, which point downward toward her flanks, while her forearms rise vertically alongside the upper chest. Her wrists are held loose and elevated near shoulder level, with the fingers on both hands loosely curled inward.
+```
+
+---
+
+## Pose 68
+
+<p align="center">
+  <a href="images/72.png">
+    <img src="images/72.png" alt="Pose 68" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a side profile standing pose facing directly to the left, standing tall and upright with an arched lower back and an upright torso. Her head is held high, facing directly left in true profile with the chin level. Both arms are held close across her chest, bent sharply at the elbows with the forearms folded tightly against the upper body and the hands resting against the collarbone and opposite shoulder area. The legs are held straight, fully extended downwards, aligned closely together in a vertical line beneath the hips. Her feet are extended downward into a tip-toe or pointed position, placing all visual weight directly onto the balls of the feet and toes, creating a vertically elongated, poised posture.
+```
+
+---
+
+## Pose 69
+
+<p align="center">
+  <a href="images/73.png">
+    <img src="images/73.png" alt="Pose 69" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a standing, one-legged stance with her full weight balanced entirely on her straight left leg, which extends vertically down to the foot planted on the ground. Her right leg is lifted and bent at the knee at approximately a right angle, so that the thigh angles forward and the lower leg extends backward horizontally with the foot pointed. Her torso is turned in a three-quarter orientation with the chest slightly lifted and the spine gently arched. Her right arm is raised and bent sharply at the elbow, positioning the right hand near the side of the head with the index and middle fingers extended upward in a peace sign. Her left arm rests naturally alongside her torso, extending downward with relaxed, slightly curved fingers. Her head is tilted back and angled upward, completing an energetic, upright posture.
+```
+
+---
+
+## Pose 70
+
+<p align="center">
+  <a href="images/74.png">
+    <img src="images/74.png" alt="Pose 70" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a standing, front-facing contrapposto stance with the body forming a gentle S-curve. The head is held upright and turned slightly toward her right shoulder. Her left arm is raised vertically with the elbow pointing upward, and the forearm bends over the top of the head so that the wrist and relaxed hand drape lightly toward the right side above the crown. Her right arm hangs downward naturally along the side of the torso, with the elbow slightly relaxed and fingers softly extended near the upper thigh. The torso subtly tilts, dipping the right shoulder slightly while the left hip is softly elevated. Most of the body weight is settled onto the left leg, which remains straight and extended down to the ground, while the right leg is lightly crossed in front at the knee, with the right knee bent slightly inward and both feet placed close together on the floor facing forward.
+```
+
+---
+
+## Pose 71
+
+<p align="center">
+  <a href="images/75.png">
+    <img src="images/75.png" alt="Pose 71" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a graceful, three-quarter rear stance where the body is angled slightly away from the viewer. The torso is turned to reveal the curve of the spine, with the back subtly arched. Her head is turned to the right in near-profile, slightly tilted with the chin gently lifted. Her right arm is raised with the elbow sharply bent, bringing the hand up to lightly touch or hover near the right side of the chin and jaw, while her left arm rests naturally alongside the torso. Her weight is supported primarily on the extended, straight left leg, balanced high on the ball of the foot with the heel elevated. Her right leg is positioned slightly forward, knee softly flexed and turned inward, with the foot pointed down and balancing delicately on the toes.
+```
+
+---
+
+## Pose 72
+
+<p align="center">
+  <a href="images/76.png">
+    <img src="images/76.png" alt="Pose 72" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a full-body standing contrapposto stance facing forward, with her weight shifted predominantly onto her right leg while her left leg is extended outward to the side with the knee straight and the heel slightly elevated. Her hips are tilted dynamically, pushing the right hip outward and upward to create an S-curve along the torso. Her head is tilted slightly toward her left shoulder while maintaining a front-facing orientation. Her right arm is raised upward with the elbow bent sharply above shoulder height, allowing the forearm to reach over the top of the head so her hand arches loosely above the crown. Her left arm extends downward along the torso with a slight inward bend at the elbow, resting the open hand lightly against the upper thigh.
+```
+
+---
+
+## Pose 73
+
+<p align="center">
+  <a href="images/77.png">
+    <img src="images/77.png" alt="Pose 73" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a three-quarter rear-facing contrapposto stance where her weight is primarily supported on her straight left leg with the foot resting flat on the ground. Her right leg is relaxed and bent slightly at the knee, positioned closer to the midline with the heel raised so only the ball of the foot touches the floor. The pelvis tilts naturally to elevate the left hip, producing an elegant curve along the spine. Her left arm is bent at the elbow with the hand resting on her waist and the elbow pointing outward to the side, while her right arm extends naturally downward with the hand resting lightly against the outer upper thigh. Her shoulders are relaxed, and her head is turned toward the right in profile, looking forward and slightly away from the viewer.
+```
+
+---
+
+## Pose 74
+
+<p align="center">
+  <a href="images/78.png">
+    <img src="images/78.png" alt="Pose 74" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a graceful balletic balancing stance where her entire body weight is supported on the ball and pointed toes of her straight, vertical right leg. Her torso is angled in a three-quarter view, subtly arched with a lifted chest and lengthened spine. Her left leg is elevated and sharply bent at the knee, held in a classic retiré position with the pointed left foot hovering near the inner calf of the standing leg. Her right arm extends diagonally downward and away from the side of the body at about a forty-five-degree angle, with a soft bend at the elbow and relaxed, delicately pointed fingers. Her left arm sweeps high overhead in an open, elegant curve, with the wrist gently flexing as the fingers reach gracefully upward. Her neck is lengthened, carrying the head tilted backward and turned upward to follow the line of her raised left arm.
+```
+
+---
+
+## Pose 75
+
+<p align="center">
+  <a href="images/79.png">
+    <img src="images/79.png" alt="Pose 75" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to standing in a three-quarter rear-facing stance with her back to the viewer, exhibiting a pronounced contrapposto curve through the spine and hips. The majority of her weight is anchored firmly on her right leg, which is held straight with the foot planted flat on the ground, while her left leg is extended diagonally outward to the side and slightly back, straightening toward a lightly grounded foot. Both arms are bent at the elbows, jutting outward from the torso as her hands rest against the sides of her upper thighs and hips. Her torso arches subtly, creating a dynamic tilt where the right hip is lifted, while her shoulders remain relatively level. Her head is bowed downward and turned slightly toward the left, tilting forward so the back and left profile of the neck are elongated.
+```
+
+---
+
+## Pose 76
+
+<p align="center">
+  <a href="images/80.png">
+    <img src="images/80.png" alt="Pose 76" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a deep, symmetrical forward-facing crouch with her hips dropped low near the ground. Her legs are spread wide apart in an expansive squat, with her thighs flared horizontally outward, knees bent sharply, and feet planted on the floor directly beneath her lower legs. Her torso leans forward slightly at the hips while remaining squared to the front. Both arms hang straight down between her wide-set knees, with the forearms and fingers relaxed and suspended loosely toward the floor. Her head is held upright and oriented straight ahead, with her weight balanced evenly between both feet.
+```
+
+---
+
+## Pose 77
+
+<p align="center">
+  <a href="images/81.png">
+    <img src="images/81.png" alt="Pose 77" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a semi-reclined seated position, resting on the floor with her upper body leaning back diagonally to her left. Her weight is supported primarily on her hips and her left arm, which extends downward and slightly backward with the palm planted flat on the ground and fingers spread. Her torso is angled toward the viewer, showing a slight counter-twist as the shoulders remain relatively upright. Her head is held high, turned slightly toward her right with the chin slightly elevated. The right leg is bent sharply upward at the knee, foot pointed and hovering gracefully just across the left lower leg. The left leg extends outward along the ground, slightly bent at the knee, with the foot extended forward. The overall posture is relaxed yet structured, creating an elongated diagonal line from the head through the extended limbs.
+```
+
+---
+
+## Pose 78
+
+<p align="center">
+  <a href="images/82.png">
+    <img src="images/82.png" alt="Pose 78" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a confident, upright standing power pose facing directly forward towards the viewer. The torso and head are centered and aligned symmetrically, with the chin level and the gaze directed straight ahead. Both arms are bent at the elbows, flared out to the sides, with the hands resting firmly on the hips and waist, thumbs directed toward the back and fingers curled slightly inward toward the front. The legs are extended straight and spread wide apart in an inverted V-shape, spaced slightly wider than shoulder-width, with the feet planted firmly on the ground facing forward, distributing the body weight evenly across both legs.
+```
+
+---
+
+## Pose 79
+
+<p align="center">
+  <a href="images/83.png">
+    <img src="images/83.png" alt="Pose 79" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a side profile, balletic upright stretch where she balances high on the balls of her feet. Her body is elongated vertically, standing tall with both legs straight and taut; the front leg bears the primary balance on pointed toes with a highly arched instep, while the rear foot is positioned just slightly behind, also resting on the tips of the toes. Her spine arches gently backward in a continuous, graceful curve, lifting the chest upward. Her head is tilted back with the chin raised, directing her gaze upward. Both arms are extended straight above her head, reaching toward the sky with elongated elbows, while her wrists and hands align smoothly with her forearms, fingers gently extended and pointing upward to emphasize a continuous, poised, upward-reaching line.
+```
+
+---
+
+## Pose 80
+
+<p align="center">
+  <a href="images/84.png">
+    <img src="images/84.png" alt="Pose 80" height="250" />
+  </a>
+</p>
+
+```text
+Change the pose of the woman to a contemplative, asymmetrical kneeling stance facing forward in a three-quarter turn. Her torso is upright with a slight forward lean and subtle rotation toward her left, resting her weight primarily on her bent, tucked left leg which rests along the floor beneath her hips with the left foot extended back. Her right leg is drawn up forward with the knee raised high toward her chest, lower leg angled downward and the right foot planted lightly forward. Her right arm is elevated with the elbow propped securely atop her raised right knee, forearm extending vertically upward so the back of her fingers and hand lightly support the underside of her chin. Her left arm crosses horizontally across the midsection of her abdomen, resting naturally across her lap beneath the raised right elbow. Her head is held erect, tilted faintly forward and slightly toward her right shoulder, with her gaze directed straightforward.
+```
+
+---
