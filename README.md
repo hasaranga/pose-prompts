@@ -58,7 +58,7 @@ PosePrompt/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/hasaranga/pose-prompts.git
-   cd PosePrompt
+   cd pose-prompts
    ```
 
 2. **(Optional) Create and activate a virtual environment:**
