@@ -1,0 +1,196 @@
+{
+	"fix blur": {"append": "top", "text" : "remove motion blur and defocus blur. restore sharp edges and fine detail on the face, hair, clothing and entire body."},
+	"nude": {"append": "top", "text" : "remove cloths and make her nude."},
+	"don't edit face, eye, hair": {"append": "top", "text" : "do not make any changes to  face or eyes or hair."},
+	"show pleasure": {"append": "bottom", "text" : "face shows pleasured expression."},
+	"show pain": {"append": "bottom", "text" : "face shows painful expression."},
+	"thick body": {"append": "bottom", "text" : "she has thick body."},
+	"thinbody": {"append": "bottom", "text" : "she has thin body."},
+	"large breasts": {"append": "bottom", "text" : "large natural breasts."},
+	"medium breasts": {"append": "bottom", "text" : "medium natural breasts."},
+	"large nipples": {"append": "bottom", "text" : "larger nipples."},
+	"natural nipple detail": {"append": "bottom", "text" : "natural nipple detail."},
+	"stretch marks on stomach, breasts": {"append": "bottom", "text" : "visible stretch marks on stomach and breasts."},
+	"large belly button": {"append": "bottom", "text" : "larger belly button."},
+	"natural detailed skin texture": {"append": "bottom", "text" : "realistic natural skin texture. highly detailed textures of skin."},
+	"skin imperfections": {"append": "bottom", "text" : "slight skin imperfections"},
+	"oiled skin": {"append": "bottom", "text" : "skin is slightly oily and shiny."},
+	"skin has pores": {"append": "bottom", "text" : "slight visible pores."},
+	"skin similar to face": {"append": "bottom", "text" : "entire body should have same skin texture as her face."},
+	"skin similar to hand": {"append": "bottom", "text" : "entire body should have same skin texture as her hand."},
+	"skin similar to leg": {"append": "bottom", "text" : "entire body should have same skin texture as her leg."},
+	"pubic hair": {"append": "bottom", "text" : "visible pubic hair."},
+	"bushy pubic hair": {"append": "bottom", "text" : "bushy pubic hair."},
+	"trimmed": {"append": "bottom", "text" : "trimmed pubic hair."},
+	"natural pubes": {"append": "bottom", "text" : "natural unshaven pubic hair."},
+	"hairy vagina": {"append": "bottom", "text" : "hairy vagina."},
+	"shaved vagina": {"append": "bottom", "text" : "shaved vagina."},
+	"detailed vulva": {"append": "bottom", "text" : "highly detailed vulva with labia majora and minora visible."},
+	"spread pussy": {"append": "bottom", "text" : "spread open pussy lips."},
+	"tight pussy": {"append": "bottom", "text" : "tight vagina."},
+	"loose pussy": {"append": "bottom", "text" : "loose vagina."},
+	"wide pussy": {"append": "bottom", "text" : "wide vagina."},
+	"flat stomach": {"append": "bottom", "text" : "flat toned stomach."},
+	"soft stomach": {"append": "bottom", "text" : "soft slightly protruding belly."},
+	"wide pelvis": {"append": "bottom", "text" : "broad pelvis bone structure."},
+	"narrow hips": {"append": "bottom", "text" : "slim narrow hips."},
+	"wide hips": {"append": "bottom", "text" : "wide hips."},
+	"larger thigh": {"append": "bottom", "text" : "larger thigh."},
+	"thick thighs": {"append": "bottom", "text" : "very thick and muscular thighs."},
+	"detailed ass": {"append": "bottom", "text" : "highly detailed textures of ass."},
+	"round ass": {"append": "bottom", "text" : "round pale ass."},
+	"thick ass": {"append": "bottom", "text" : "thick ass."},
+	"detailed anus": {"append": "bottom", "text" : "highly detailed texture of the anus."},
+	"veiny legs": {"append": "bottom", "text" : "visible veins on legs."},
+	"film grain": {"append": "bottom", "text" : "subtle film grain."},
+	"natural lighting": {"append": "bottom", "text" : "The lighting is natural creating even illumination."},
+	"cinematic lighting": {"append": "bottom", "text" : "cinematic lighting."},
+	"smartphone photo": {"append": "bottom", "text" : "Smartphone-like photo, candid photograph, low-quality overexposed photograph."},
+	"DSLR camera 85mm": {"append": "bottom", "text" : "professional photo taken with DSLR camera with 85mm lens."},
+	"kodak Portra 400": {"append": "bottom", "text" : "Kodak Portra 400 look, fine grain texture, soft pastel color grading, volumetric cinematic lighting."},
+	"35mm-equivalent lens": {"append": "bottom", "text" : "shot on a 35mm-equivalent lens at roughly f/2.0 to f/2.8."},
+	"24mm night shot": {"append": "bottom", "text" : "A grainy low-light video still shot with a handheld wide-angle lens around 24mm at a high ISO and approximately f/2.0."},
+	"raw documentary style": {"append": "bottom", "text" : "raw documentary texture with video noise and compressed contrast."},
+
+
+  "medium-brown skin man": {
+    "append": "top",
+     "text" : "man is medium-brown skin tone and a muscular build."
+  },
+  "medium-white skin man": {
+    "append": "top",
+     "text" : "man is medium-white skin tone and a muscular build."
+  },
+  "thick penis": {
+    "append": "top",
+     "text" : "man has thick penis."
+  },
+  "long penis": {
+    "append": "top",
+     "text" : "man has long penis."
+  },
+
+  "penetrate vagina": {
+    "append": "bottom",
+     "text" : "man penetrates her vagina with his penis."
+  },
+
+  "penetrate ass": {
+    "append": "bottom",
+     "text" : "man penetrates her ass with his penis."
+  },
+
+  "penetrate mouth": {
+    "append": "bottom",
+     "text" : "man penetrates her mouth with his penis."
+  },
+
+  "pose - 69": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying on her back, legs wide apart and raised towards the man's face, head tilted back, mouth open licking the man's penis while he rimes her vagina with his tongue."
+  },
+  "pose - cowgirl": {
+    "append": "top",
+    "text": "Change the pose of the woman to sitting upright on the man's lap, straddling his penis with her vagina, facing him, arms wrapped around his neck, back slightly arched as he thrusts his penis inside her."
+  },
+  "pose - reverse cowgirl": {
+    "append": "top",
+    "text": "Change the pose of the woman to sitting on the man's lap, facing away from him, hands resting on his thighs, vagina taking the man's penis as he thrusts from behind."
+  },
+  "pose - doggy style": {
+    "append": "top",
+    "text": "Change the pose of the woman to on all fours, head down, back arched, rear raised as the man penetrates her vagina with his penis from behind."
+  },
+  "pose - standing": {
+    "append": "top",
+    "text": "Change the pose of the woman to standing upright, legs apart, arms wrapped around the man's neck or shoulders as he penetrates her vagina with his penis."
+  },
+  "pose - seated": {
+    "append": "top",
+    "text": "Change the pose of the woman to seated on the man's lap, legs wrapped around his waist, her vagina taking his penis as he thrusts forward."
+  },
+  "pose - lying": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying flat on her back, arms raised above her head, legs spread wide apart as the man penetrates her vagina with his penis."
+  },
+  "pose - kneeling": {
+    "append": "top",
+    "text": "Change the pose of the woman to kneeling on the floor, head down, performing oral sex on the man's penis with her mouth and tongue."
+  },
+  "pose - bent over": {
+    "append": "top",
+    "text": "Change the pose of the woman to bent over at the waist, rear raised as the man penetrates her vagina with his penis from behind."
+  },
+  "pose - spreadeagle": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying flat on her back, arms and legs spread wide apart, bound or restrained, as the man penetrates her vagina with his penis."
+  },
+  "pose - bridal": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying on her back, legs wrapped around the man's waist, vagina taking his penis as he thrusts."
+  },
+  "pose - straddling": {
+    "append": "top",
+    "text": "Change the pose of the woman to straddling the man's hips, legs on either side of his body, vagina taking his penis as he thrusts."
+  },
+  "pose - vertical": {
+    "append": "top",
+    "text": "Change the pose of the woman to standing upright, legs apart, arms wrapped around the man's neck as he penetrates her vagina with his penis."
+  },
+  "pose - horizontal": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying flat on her back, arms and legs spread wide apart, as the man penetrates her vagina with his penis."
+  },
+  "pose - angled": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying at an angle, one hip raised, legs crossed or spread, as the man penetrates her vagina with his penis."
+  },
+  "pose - twisted": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying with her body twisted, one leg raised and bent at the knee, arms above her head, as the man penetrates her vagina with his penis."
+  },
+  "pose - arched": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying with her back arched, legs raised and spread wide, as the man penetrates her vagina with his penis."
+  },
+  "pose - flat": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying flat on her back, arms and legs straight, as the man penetrates her vagina with his penis."
+  },
+  "pose - curled": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying with her knees pulled up to her chest, arms wrapped around her legs, as the man penetrates her vagina with his penis."
+  },
+  "pose - elevated": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying with her body elevated, one hip raised on a surface, as the man penetrates her vagina with his penis."
+  },
+  "pose - oral": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying down, head tilted back, mouth open licking the man's penis while he kneels above her."
+  },
+  "pose - rimming": {
+    "append": "top",
+    "text": "Change the pose of the man to lying on his back, legs wide apart and raised. woman mouth is open licking the man's anus."
+  },
+  "pose - deep throat": {
+    "append": "top",
+    "text": "Change the pose of the woman to kneeling, head tilted back, throat deep taking the man's penis with her mouth."
+  },
+  "pose - face sitting": {
+    "append": "top",
+    "text": "Change the pose of the woman to sitting, face pressed against the man's penis as she licks it."
+  },
+  "pose - penis eating": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying down and her mouth open licking the man's penis, tongue moving up and down the shaft."
+  },
+  "pose - anus licking": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying on her back or kneeling, mouth pressed against the man's anus as she licks it."
+  },
+  "pose - penetration": {
+    "append": "top",
+    "text": "Change the pose of the woman to lying, sitting, or standing, as the man penetrates her vagina with his penis."
+  }
+}
