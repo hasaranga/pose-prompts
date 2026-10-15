@@ -11,6 +11,8 @@ IMAGES_DIR = BASE_DIR / "images"
 PROMPTS_JSON = BASE_DIR / "pose_prompts.json"
 OPTIONS_JSON = BASE_DIR / "extra_options.json"
 
+from advanced_prompt_builder import AdvancedPromptBuilderWindow
+
 
 def get_system_font_family() -> str:
     """Return the standard sans-serif UI font for the current OS."""
@@ -285,6 +287,8 @@ class PosePromptGUI:
         self.current_preview_photo: ImageTk.PhotoImage | None = None
         self.option_vars: dict[str, tk.BooleanVar] = {}
         self._copy_timer = None
+        self.advanced_builder_window: AdvancedPromptBuilderWindow | None = None
+        self.advanced_prompt_text: str = ""
 
         self._build_ui()
 
@@ -307,27 +311,6 @@ class PosePromptGUI:
         return []
 
     def _build_ui(self):
-        # Top toolbar
-        top_bar = ttk.Frame(self.root, padding=(16, 12))
-        top_bar.pack(fill=tk.X)
-
-        self.btn_select_pose = ttk.Button(
-            top_bar,
-            text="🖼️ Select Pose",
-            command=self.open_pose_picker,
-        )
-        self.btn_select_pose.pack(side=tk.LEFT)
-
-        self.lbl_selected_title = ttk.Label(
-            top_bar,
-            text="No pose selected. Click 'Select Pose' to pick an image.",
-            font=(FONT_FAMILY, 10, "italic"),
-            foreground="#555555",
-        )
-        self.lbl_selected_title.pack(side=tk.LEFT, padx=(16, 0))
-
-        ttk.Separator(self.root, orient=tk.HORIZONTAL).pack(fill=tk.X)
-
         # Main content area (Three columns)
         content_pane = ttk.Frame(self.root, padding=16)
         content_pane.pack(fill=tk.BOTH, expand=True)
@@ -411,6 +394,14 @@ class PosePromptGUI:
             command=self.open_pose_picker,
         )
         self.btn_browse_pose.pack(fill=tk.X, pady=(2, 0))
+
+        # Advanced Builder button below Selected Pose group box
+        self.btn_advanced_builder = ttk.Button(
+            col_preview,
+            text="⚡ Advanced builder",
+            command=self.open_advanced_builder,
+        )
+        self.btn_advanced_builder.pack(fill=tk.X, pady=(12, 0))
 
         # Column 1: Extra Options (Middle column, same height as Prompt Description)
         col_options = ttk.Frame(content_pane)
@@ -607,13 +598,28 @@ class PosePromptGUI:
         )
 
         self.lbl_preview_fname.config(text="")
-        self.lbl_selected_title.config(
-            text="No pose selected. Click 'Select Pose' to pick an image.",
-            font=(FONT_FAMILY, 10, "italic"),
-            foreground="#555555",
-        )
         self.btn_clear_pose.config(state=tk.DISABLED)
 
+        self.update_prompt_text()
+
+    def open_advanced_builder(self):
+        """Open or show the Advanced Prompt Builder window without prompt textbox."""
+        if self.advanced_builder_window and self.advanced_builder_window.winfo_exists():
+            self.advanced_builder_window.deiconify()
+            self.advanced_builder_window.lift()
+            self.advanced_builder_window.focus_force()
+            return
+
+        self.advanced_builder_window = AdvancedPromptBuilderWindow(
+            master=self.root,
+            on_change=self.on_advanced_builder_change,
+            show_textbox=False,
+        )
+        center_window(self.advanced_builder_window, 800, 460)
+
+    def on_advanced_builder_change(self, text: str):
+        """Callback when prompt is updated in Advanced Prompt Builder."""
+        self.advanced_prompt_text = text.strip()
         self.update_prompt_text()
 
     def open_pose_picker(self):
@@ -634,11 +640,6 @@ class PosePromptGUI:
     def on_pose_selected(self, fname: str):
         """Callback when user picks an image from modal."""
         self.selected_image = fname
-        self.lbl_selected_title.config(
-            text=f"Selected: {fname}",
-            font=(FONT_FAMILY, 10, "bold"),
-            foreground="#1565c0",
-        )
         self.lbl_preview_fname.config(text=fname)
         self.btn_clear_pose.config(state=tk.NORMAL)
 
@@ -718,7 +719,15 @@ class PosePromptGUI:
             else:
                 parts.append(bottom_str)
 
-        final_prompt = "".join(parts)
+        if self.advanced_prompt_text:
+            if parts:
+                if not parts[-1].endswith(" "):
+                    parts.append(" ")
+                parts.append(self.advanced_prompt_text)
+            else:
+                parts.append(self.advanced_prompt_text)
+
+        final_prompt = "".join(parts).strip()
         self._set_textbox_content(final_prompt)
 
         words = len(final_prompt.split()) if final_prompt else 0

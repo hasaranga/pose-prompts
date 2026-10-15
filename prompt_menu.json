@@ -1,0 +1,1191 @@
+{
+  "_help": "Edit freely, then click 'Reload JSON'. A '#' in a template is replaced by the user's choices. 'slots' = one entry per '#': a list name from 'lists', an inline array of options, or {\"options\":[...] or \"list\":\"name\", \"multi\":false}. multi defaults to true (pick several, joined as 'a, b and c'). Items with the same 'group' replace each other. Items without '#' are plain phrases. Menus can nest: any node may contain 'categories' and 'items'.",
+  "prefix": "",
+  "suffix": "",
+  "lists": {
+    "body_parts": [
+      "face",
+      "cheeks",
+      "jawline",
+      "neck",
+      "shoulders",
+      "collarbone",
+      "chest",
+      "breasts",
+      "stomach",
+      "tummy",
+      "back",
+      "upper back",
+      "arms",
+      "forearms",
+      "hands",
+      "hips",
+      "buttocks",
+      "pussy",
+      "ass",
+      "thighs",
+      "legs",
+      "calves",
+      "knees",
+      "elbows",
+      "feet"
+    ]
+  },
+  "categories": [
+    {
+      "name": "Poses & Actions",
+      "categories": [
+        {
+          "name": "Couples & Action Poses",
+          "items": [
+            {
+              "label": "Cowgirl",
+              "template": "Change the pose to cowgirl: the man is lying on his back. The woman is sitting upright on top of him, straddling his hips, with his penis fully inserted in her vagina. She is facing him, knees on either side of his body, arms wrapped around his neck, back slightly arched as she rides him.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Reverse cowgirl",
+              "template": "Change the pose to reverse cowgirl: the man is lying on his back. The woman is sitting on top of him facing away from him (toward his feet), straddling his hips with his penis fully inserted in her vagina. Her hands rest on his thighs for support as she rides him.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Doggy style",
+              "template": "Change the pose to doggy style: the woman is on all fours on her hands and knees, head lowered, back arched, and hips raised. The man is positioned behind her, gripping her waist, penetrating her vagina deeply with his penis from behind.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Missionary (lying)",
+              "template": "Change the pose to missionary: the woman is lying flat on her back, arms raised above her head, legs spread wide apart. The man is on top of her, between her legs, penetrating her vagina deeply with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Horizontal missionary",
+              "template": "Change the pose to horizontal missionary: the woman is lying flat on her back with her arms and legs spread wide apart. The man is on top of her between her legs, penetrating her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Flat missionary",
+              "template": "Change the pose to flat missionary: the woman is lying completely flat on her back with her arms and legs straight and relaxed. The man is on top of her, penetrating her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Twisted missionary",
+              "template": "Change the pose to twisted missionary: the woman is lying on her back with her torso twisted to one side, one leg raised and bent at the knee, arms above her head. The man is on top of her, penetrating her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Seated sex",
+              "template": "Change the pose to seated sex: the man is sitting upright. The woman is sitting on his lap facing him, legs wrapped around his waist, with his penis fully inserted in her vagina as he thrusts upward into her.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Standing sex",
+              "template": "Change the pose to standing sex: both are standing upright and facing each other. The woman has her legs slightly apart, arms wrapped around the man’s shoulders for support. The man is penetrating her vagina with his penis, possibly lifting one of her legs or holding her hips to deepen the penetration.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Vertical standing sex",
+              "template": "Change the pose to vertical standing sex: both are standing upright facing each other. The woman has her legs slightly apart, arms wrapped around the man's neck for support, while he penetrates her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Straddling",
+              "template": "Change the pose to straddling: the man is lying on his back. The woman is straddling his hips with her legs on either side of his body, his penis fully inserted in her vagina as she rides him.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Bridal carry",
+              "template": "Change the pose to bridal carry sex: the woman is lying on her back with her legs wrapped tightly around the man's waist. The man is on top of her, penetrating her vagina deeply with his penis while thrusting.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Bent over",
+              "template": "Change the pose to bent over: the woman is bent forward at the waist with her rear raised and legs slightly apart. The man stands behind her, gripping her hips, and penetrates her vagina with his penis from behind.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Spreadeagle",
+              "template": "Change the pose to spreadeagle: the woman is lying flat on her back with her arms and legs stretched wide apart and restrained. The man is positioned between her spread legs, penetrating her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Arched back",
+              "template": "Change the pose to arched back: the woman is lying on her back with her back strongly arched, legs raised and spread wide. The man is between her legs, penetrating her vagina deeply with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Curled legs",
+              "template": "Change the pose to curled legs: the woman is lying on her back with her knees pulled tightly up to her chest, arms wrapped around her legs. The man is positioned in front of her, penetrating her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Elevated hips",
+              "template": "Change the pose to elevated hips: the woman is lying on her back with one hip or her lower body elevated on a surface. The man is between her legs, penetrating her vagina with his penis at an upward angle.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Angled penetration",
+              "template": "Change the pose to angled penetration: the woman is lying on her side or slightly angled, one hip raised, legs are spread. The man is positioned beside or behind her, penetrating her vagina with his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Classic 69",
+              "template": "Change the pose to classic 69: the woman is lying on her back, legs spread wide and raised toward the man’s face. The man is on top of her facing the opposite direction, his head between her thighs, licking and sucking her vagina and clitoris with his tongue. Her head is tilted back with her mouth open, licking and sucking the man’s penis which hangs above her face.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Oral sex",
+              "template": "Change the pose to oral sex: the woman is lying on her back with her head tilted back and mouth open. The man is kneeling above her face, and she is licking and sucking his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Kneeling oral",
+              "template": "Change the pose to kneeling oral: the woman is kneeling on the floor in front of the man, head lowered toward his groin, using her mouth and tongue to suck and lick his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Deep throat",
+              "template": "Change the pose to deep throat: the woman is kneeling in front of the man with her head tilted back. She is taking his penis deeply into her mouth and throat.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Penis licking",
+              "template": "Change the pose to penis licking: the woman is lying down or kneeling with her mouth open, actively licking the man's penis up and down the shaft with her tongue.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Face sitting",
+              "template": "Change the pose to face sitting: the man is lying on his back. The woman is sitting on his face with her vagina pressed against his mouth, while she leans forward and sucks his penis.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Rimming",
+              "template": "Change the pose to rimming: the man is lying on his back with his legs spread wide and raised. The woman is positioned between his legs with her mouth open, licking and rimming his anus with her tongue.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Anus licking",
+              "template": "Change the pose to anus licking: the woman is either lying on her back or kneeling, with her mouth pressed against the man's anus as she licks it with her tongue.",
+              "group": "couple_pose"
+            },
+            {
+              "label": "Showing ass (all-fours rear)",
+              "template": "do not make any changes to face or eyes or hair. Change the pose of the woman to an all-fours, crawling stance viewed from a low, three-quarter rear perspective. her ass is visible from backside. The torso is angled downward and slightly forward, with the back arched and hips raised prominently higher than the shoulders. Her weight is supported primarily on her bent knees and shins resting on the ground, with both feet extended backward displaying the soles and toes pointed toward the viewer. The left knee is positioned slightly forward while the right leg is tucked alongside. Her right arm is extended downward to the ground with fingers splayed to support the upper body, while the left arm is positioned slightly further forward, mostly obscured by the torso. Her head is turned away toward the front right, facing forward and tilted slightly downward relative to the raised pelvis. realistic natural skin texture. highly detailed textures of skin. slight skin imperfections. slight visible pores and goosebumps on ass and hands. entire body and face should have same skin texture and tone as her hand. thick and muscular thighs. highly detailed textures of ass. highly detailed texture of the anus. hairy ass. subtle film grain. The lighting is natural creating even illumination. raw documentary texture with video noise and compressed contrast.",
+              "group": "couple_pose"
+            }
+          ]
+        },
+        {
+          "name": "Leg Positioning",
+          "items": [
+            {
+              "label": "Opened legs",
+              "template": "legs are little opened."
+            }
+          ]
+        },
+        {
+          "name": "Custom Seated Pose Builder",
+          "items": [
+            {
+              "label": "Seated posture...",
+              "template": "Change the pose of the woman to # seated posture angled in a # view toward the #.",
+              "slots": [
+                {
+                  "options": [
+                    "an upright",
+                    "a relaxed",
+                    "a slouched",
+                    "a forward-leaning",
+                    "a slightly reclined"
+                  ],
+                  "multi": false
+                },
+                {
+                  "options": [
+                    "three-quarter",
+                    "front",
+                    "side profile"
+                  ],
+                  "multi": false
+                },
+                {
+                  "options": [
+                    "left",
+                    "right"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Weight...",
+              "template": "The weight is #.",
+              "slots": [
+                {
+                  "options": [
+                    "settled primarily on the hips and buttocks",
+                    "shifted onto the left hip",
+                    "shifted onto the right hip"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Torso...",
+              "template": "The torso is #.",
+              "slots": [
+                {
+                  "options": [
+                    "held straight with the chest lifted and shoulders relaxed backward",
+                    "curved slightly forward with the shoulders rounded",
+                    "leaning slightly back with the chest open"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Head...",
+              "template": "The head is oriented toward a # angle, aligned # and facing #.",
+              "slots": [
+                {
+                  "options": [
+                    "three-quarter",
+                    "frontal",
+                    "profile"
+                  ],
+                  "multi": false
+                },
+                {
+                  "options": [
+                    "slightly downward",
+                    "level",
+                    "slightly upward"
+                  ],
+                  "multi": false
+                },
+                {
+                  "options": [
+                    "left",
+                    "right",
+                    "the camera"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Arms...",
+              "template": "Both arms #.",
+              "slots": [
+                {
+                  "options": [
+                    "extend straight down alongside the torso and slightly behind the hips",
+                    "rest relaxed in the lap",
+                    "are folded across the chest",
+                    "extend forward with the elbows slightly bent"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Hands...",
+              "template": "The hands are #.",
+              "slots": [
+                {
+                  "options": [
+                    "resting flat against the seat on either side to help brace the upper body",
+                    "resting on the knees",
+                    "clasped together in the lap"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Legs...",
+              "template": "The legs are #.",
+              "slots": [
+                {
+                  "options": [
+                    "crossed at the knees, with the right leg draped over the left",
+                    "crossed at the knees, with the left leg draped over the right",
+                    "together with the knees touching",
+                    "slightly apart with the knees relaxed",
+                    "crossed at the ankles"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Left lower leg...",
+              "template": "The lower left leg #.",
+              "slots": [
+                {
+                  "options": [
+                    "extends vertically downward with the left foot planted firmly on the ground",
+                    "extends diagonally downward and outward to the right",
+                    "tucks back beneath the seat"
+                  ],
+                  "multi": false
+                }
+              ]
+            },
+            {
+              "label": "Right lower leg...",
+              "template": "The lower right leg #.",
+              "slots": [
+                {
+                  "options": [
+                    "extends diagonally downward and outward to the left, keeping the right foot suspended just above the floor with the toes angled forward",
+                    "extends vertically downward with the right foot planted firmly on the ground",
+                    "hangs loosely with the foot pointed downward"
+                  ],
+                  "multi": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clothing & Nudity",
+      "categories": [
+        {
+          "name": "Full Nude",
+          "items": [
+            {
+              "label": "Full nude",
+              "template": "remove cloths of the woman and make her nude.",
+              "group": "clothing_state"
+            }
+          ]
+        },
+        {
+          "name": "Partial Nude - Tops & Dresses",
+          "items": [
+            {
+              "label": "Topless",
+              "template": "woman is completely topless, no bra or shirt, while still wearing bottom clothing."
+            },
+            {
+              "label": "Shirt lifted",
+              "template": "woman shirt lifted up above the breasts, exposing them completely while the rest of the clothing remains on."
+            },
+            {
+              "label": "Shirt open",
+              "template": "woman shirt unbuttoned and open, revealing bare breasts and stomach while still wearing the garment."
+            },
+            {
+              "label": "Bra pulled down",
+              "template": "woman bra cups pulled down under the breasts, fully exposing them while the bra straps remain on the shoulders."
+            },
+            {
+              "label": "Bra open",
+              "template": "woman bra unhooked and open at the front, breasts fully exposed."
+            },
+            {
+              "label": "Sports bra pulled up",
+              "template": "woman sports bra pulled up above the breasts, fully exposing them."
+            },
+            {
+              "label": "Dress straps down",
+              "template": "woman dress straps slipped off the shoulders, dress pulled down to the waist, breasts fully exposed."
+            },
+            {
+              "label": "Dress hiked up",
+              "template": "woman dress hiked up around the waist, completely exposing the lower body and underwear or lack thereof."
+            },
+            {
+              "label": "One breast out",
+              "template": "woman one breast pulled free from clothing while the other remains covered."
+            },
+            {
+              "label": "Both breasts out",
+              "template": "woman both breasts fully exposed while the rest of the clothing stays on."
+            },
+            {
+              "label": "Underboob",
+              "template": "woman clothing lifted just enough to show underboob while the nipples remain covered."
+            },
+            {
+              "label": "Sideboob",
+              "template": "woman clothing shifted to the side, clearly showing sideboob while the front remains mostly covered."
+            },
+            {
+              "label": "Deep cleavage",
+              "template": "woman is deep plunging neckline or clothing pulled low, extreme cleavage with most of the breasts visible."
+            },
+            {
+              "label": "One side clothing",
+              "template": "woman clothing pulled off one shoulder and one breast, creating an asymmetrical partial nude look."
+            },
+            {
+              "label": "Wet shirt cling",
+              "template": "woman wearing a wet see-through shirt that clings tightly to the body, clearly showing breasts and nipples underneath."
+            }
+          ]
+        },
+        {
+          "name": "Partial Nude - Bottoms & Underwear",
+          "items": [
+            {
+              "label": "Bottomless",
+              "template": "woman is completely bottomless, no pants or underwear, while still wearing top clothing."
+            },
+            {
+              "label": "Skirt lifted",
+              "template": "woman skirt lifted high above the hips, fully exposing the lower body while still wearing it."
+            },
+            {
+              "label": "Panties pulled aside",
+              "template": "woman panties pulled to the side, exposing the pussy while still wearing them."
+            },
+            {
+              "label": "Panties around thighs",
+              "template": "woman panties pulled down around the mid-thighs, leaving the hips and pussy exposed."
+            },
+            {
+              "label": "Panties at ankles",
+              "template": "woman panties pulled down to the ankles, still tangled around the feet."
+            },
+            {
+              "label": "Unbuttoned jeans",
+              "template": "woman jeans unbuttoned and pulled halfway down the hips, revealing the top of the pussy."
+            },
+            {
+              "label": "Shorts pulled aside",
+              "template": "woman shorts pulled to the side, exposing the pussy while still wearing them."
+            },
+            {
+              "label": "Leggings pulled down",
+              "template": "woman leggings pulled down to mid-thigh, exposing the lower body."
+            },
+            {
+              "label": "Shows left thigh",
+              "template": "woman is showing her left thigh by pulling up her garment by hand."
+            }
+          ]
+        },
+        {
+          "name": "Partial Nude - Minimal & Only",
+          "items": [
+            {
+              "label": "Only panties",
+              "template": "woman is wearing only panties, everything else removed."
+            },
+            {
+              "label": "Only bra",
+              "template": "woman wearing only a bra, everything else removed."
+            },
+            {
+              "label": "Only stockings",
+              "template": "woman wearing only thigh-high stockings, completely nude otherwise."
+            },
+            {
+              "label": "Only socks",
+              "template": "woman wearing only ankle socks, completely nude otherwise."
+            },
+            {
+              "label": "Only heels",
+              "template": "woman wearing only high heels, completely nude otherwise."
+            },
+            {
+              "label": "Open robe",
+              "template": "woman wearing an open robe that hangs off the shoulders, body fully exposed underneath."
+            },
+            {
+              "label": "Towel only",
+              "template": " remove her cloths. she is wearing only a towel. towel wrapped loosely around the woman body revealing hips."
+            },
+            {
+              "label": "Towel slipping",
+              "template": "towel wrapped loosely around the woman body and slipping down, revealing breasts and hips."
+            }
+          ]
+        },
+        {
+          "name": "Standard Clothing",
+          "items": [
+            {
+              "label": "Custom clothing...",
+              "template": "She is wearing #.",
+              "options": [
+                "a white t-shirt",
+                "a black dress",
+                "blue jeans",
+                "a denim jacket",
+                "sandals"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Body & Anatomy",
+      "categories": [
+        {
+          "name": "Body Build",
+          "items": [
+            {
+              "label": "Thick body",
+              "template": "she has thick, soft, voluptuous body with full curves, wide hips and heavy thighs.",
+              "group": "body_build"
+            },
+            {
+              "label": "Soft chubby body",
+              "template": "she has soft chubby body with gentle belly and full thighs.",
+              "group": "body_build"
+            },
+            {
+              "label": "Thin body",
+              "template": "she has slim, toned body with narrow waist and long limbs.",
+              "group": "body_build"
+            },
+            {
+              "label": "Muscular body",
+              "template": "she has athletic muscular body with defined abs, strong thighs and shoulders.",
+              "group": "body_build"
+            }
+          ]
+        },
+        {
+          "name": "Breasts & Nipples",
+          "items": [
+            {
+              "label": "Large breasts",
+              "template": "large natural breasts with detailed areola texture.",
+              "group": "breast_size"
+            },
+            {
+              "label": "Medium breasts",
+              "template": "medium natural breasts with soft slope and realistic shape.",
+              "group": "breast_size"
+            },
+            {
+              "label": "Small breasts",
+              "template": "small perky breasts with natural shape.",
+              "group": "breast_size"
+            },
+            {
+              "label": "Large nipples",
+              "template": "large natural nipples with detailed areola texture.",
+              "group": "nipples"
+            },
+            {
+              "label": "Erect nipples",
+              "template": "erect nipples with tight areolas.",
+              "group": "nipples"
+            },
+            {
+              "label": "Thick nipple tips",
+              "template": "thick nipple tips."
+            }
+          ]
+        },
+        {
+          "name": "Stomach & Waist",
+          "items": [
+            {
+              "label": "Flat stomach",
+              "template": "flat toned tummy.",
+              "group": "stomach"
+            },
+            {
+              "label": "Soft stomach",
+              "template": "soft slightly protruding belly.",
+              "group": "stomach"
+            },
+            {
+              "label": "Large belly button",
+              "template": "larger belly button."
+            }
+          ]
+        },
+        {
+          "name": "Hips, Butt & Legs",
+          "items": [
+            {
+              "label": "Narrow hips",
+              "template": "slim narrow hips.",
+              "group": "hips"
+            },
+            {
+              "label": "Wide hips",
+              "template": "wide hips and broad pelvis.",
+              "group": "hips"
+            },
+            {
+              "label": "Thick thighs",
+              "template": "very thick and muscular thighs."
+            },
+            {
+              "label": "Larger thigh",
+              "template": "larger thigh."
+            },
+            {
+              "label": "Slight hairy & large thighs",
+              "template": "thighs are slight hairy and large thighs."
+            },
+            {
+              "label": "Detailed ass",
+              "template": "highly detailed textures of ass."
+            },
+            {
+              "label": "Round ass",
+              "template": "round thick soft ass with natural weight."
+            },
+            {
+              "label": "Thick ass",
+              "template": "thick ass."
+            },
+            {
+              "label": "Detailed anus",
+              "template": "highly detailed texture of the anus."
+            }
+          ]
+        },
+        {
+          "name": "Intimate & Vulva",
+          "items": [
+            {
+              "label": "Detailed vulva",
+              "template": "highly detailed vulva with visible labia majora and minora, natural folds and realistic texture."
+            },
+            {
+              "label": "Spread pussy",
+              "template": "pussy lips spread open, revealing inner details and wetness."
+            },
+            {
+              "label": "Tight pussy",
+              "template": "tight vagina with neat folds.",
+              "group": "pussy_tightness"
+            },
+            {
+              "label": "Loose pussy",
+              "template": "loose vagina.",
+              "group": "pussy_tightness"
+            },
+            {
+              "label": "Wide pussy",
+              "template": "wide vagina.",
+              "group": "pussy_tightness"
+            },
+            {
+              "label": "Hairy pussy",
+              "template": "hairy pussy."
+            }
+          ]
+        },
+        {
+          "name": "Body Hair",
+          "items": [
+            {
+              "label": "Bushy pubic hair",
+              "template": "bushy overgrown pubic hair.",
+              "group": "pubic_hair"
+            },
+            {
+              "label": "Trimmed pubic hair",
+              "template": "neatly trimmed pubic hair.",
+              "group": "pubic_hair"
+            },
+            {
+              "label": "Natural pubic hair",
+              "template": "natural untrimmed pubic hair with soft realistic density.",
+              "group": "pubic_hair"
+            },
+            {
+              "label": "Natural underarm hair",
+              "template": "natural underarm hair.",
+              "group": "underarm_hair"
+            },
+            {
+              "label": "Trimmed underarm hair",
+              "template": "trimmed underarm hair.",
+              "group": "underarm_hair"
+            },
+            {
+              "label": "Bushy underarm hair",
+              "template": "bushy overgrown underarm hair.",
+              "group": "underarm_hair"
+            }
+          ]
+        },
+        {
+          "name": "Body Part Modifiers (...)",
+          "items": [
+            {
+              "label": "Neatly manicured nails...",
+              "template": "The nails on # are neatly manicured.",
+              "slots": [
+                {
+                  "options": [
+                    "hands",
+                    "feet"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Slight muscle definition...",
+              "template": "slight muscle definition on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Soft natural creases...",
+              "template": "soft natural creases on #.",
+              "list": "body_parts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skin & Texture",
+      "categories": [
+        {
+          "name": "Details by Body Part (...)",
+          "items": [
+            {
+              "label": "Has goosebumps on #...",
+              "template": "slight visible goosebumps on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Tactile goosebumps (cutis anserina) on #...",
+              "template": "tactile goosebumps (cutis anserina) with tiny raised bumps on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Visible pores on #...",
+              "template": "slight visible pores on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Natural freckles on #...",
+              "template": "scattered natural freckles across #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Faint tan lines on #...",
+              "template": "faint tan lines on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Smooth even texture on #...",
+              "template": "smooth, even skin texture on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Natural oily sheen on #...",
+              "template": "skin has a slight natural oily sheen on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Oiled & shiny skin on #...",
+              "template": "skin is slightly oily and shiny on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Peach fuzz (vellus hair) on #...",
+              "template": "fine vellus hair (peach fuzz) catching light along #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Visible veins on #...",
+              "template": "visible veins on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Natural creases & folds on #...",
+              "template": "soft natural creases and epidermal folds on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Muscle definition on #...",
+              "template": "slight muscle definition on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Subtle skin mottling on #...",
+              "template": "subtle uneven skin mottling on #.",
+              "list": "body_parts"
+            },
+            {
+              "label": "Natural capillary flush on #...",
+              "template": "natural capillary flush and mild redness on #.",
+              "list": "body_parts"
+            }
+          ]
+        },
+        {
+          "name": "Tone & Texture Match (...)",
+          "items": [
+            {
+              "label": "Entire body matches skin of #...",
+              "template": "entire body should have same skin tone and texture as her #.",
+              "slots": [
+                {
+                  "options": [
+                    "face",
+                    "hands",
+                    "legs",
+                    "arms",
+                    "chest"
+                  ],
+                  "multi": false
+                }
+              ],
+              "group": "skin_match"
+            },
+            {
+              "label": "Breast skin matches tone of #...",
+              "template": "breast skin tone is similar to her #.",
+              "slots": [
+                {
+                  "options": [
+                    "hands",
+                    "face",
+                    "legs",
+                    "body"
+                  ],
+                  "multi": false
+                }
+              ],
+              "group": "skin_match"
+            }
+          ]
+        },
+        {
+          "name": "Texture & Sheen",
+          "items": [
+            {
+              "label": "Natural skin texture",
+              "template": "realistic natural skin texture. highly detailed textures of skin."
+            },
+            {
+              "label": "Skin imperfections",
+              "template": "slight skin imperfections."
+            },
+            {
+              "label": "Pores & goosebumps on skin",
+              "template": "slight visible pores and goosebumps on skin."
+            },
+            {
+              "label": "Skin has pores",
+              "template": "slight visible pores."
+            },
+            {
+              "label": "Oiled skin",
+              "template": "skin is slightly oily and shiny."
+            },
+            {
+              "label": "Oiled shoulders, chest, stomach & thighs",
+              "template": "skin has a slight natural oily sheen, especially on shoulders, chest, stomach and thighs."
+            },
+            {
+              "label": "Stretch marks / oily sheen",
+              "template": "skin has a slight natural oily sheen, especially on shoulders, chest, stomach and thighs."
+            }
+          ]
+        },
+        {
+          "name": "Facial & Micro Skin Details",
+          "items": [
+            {
+              "label": "Fine pores & peach fuzz",
+              "template": "visible fine skin pores, subtle skin micro-texture, natural epidermal grain, delicate peach fuzz along jawline, faint laugh lines, unretouched skin, no foundation makeup."
+            },
+            {
+              "label": "Hydrated dewy & flush",
+              "template": "hydrated dewy skin, soft specular highlights on cheekbones and nose bridge, realistic subsurface scattering, soft skin translucency, fine natural skin grain, light capillary flush on cheeks."
+            },
+            {
+              "label": "Sun-kissed & freckles",
+              "template": "lightly sun-kissed skin, scattered natural freckles across nose and cheeks, subtle uneven skin mottling, warm subsurface scattering glow, fine vellus hair catching light, natural skin topography."
+            },
+            {
+              "label": "Raking side light & topography",
+              "template": "raking side light revealing natural skin topography, visible skin pores on T-zone, subtle cutis anserina goosebumps, fine peach fuzz rim-lit, micro-creases around eyes, realistic skin undertones."
+            },
+            {
+              "label": "Unfiltered raw texture",
+              "template": "unfiltered raw skin texture, natural blemishes, mild skin redness, faint under-eye hollows, visible skin pores, irregular pigmentation, zero smoothing, organic epidermal texture."
+            }
+          ]
+        },
+        {
+          "name": "Cinematic Lighting & Skin",
+          "items": [
+            {
+              "label": "Warm direct sunlight (detailed)",
+              "template": "Her face and shoulder are illuminated by warm, direct sunlight, showing rich, lifelike subsurface scattering where the sun catches her ears and the edges of her cheeks, creating a soft, warm translucency. Her skin has natural, uneven skin tone with visible skin grain, featuring tiny, scattered freckles across her nose and upper cheeks. Fine, soft peach fuzz is visible as it catches the backlighting along her jawline and cheek. There is a subtle, natural specular sheen on her forehead and cheekbones from being outdoors. Her expression brings out natural, fine laugh lines around her eyes and mouth, with genuine micro-creases. Visible, natural skin pores, tiny blemishes, and organic epidermal texture are visible, refusing any airbrushed or CGI appearance."
+            },
+            {
+              "label": "Directional rim light & cool air (detailed)",
+              "template": "The directional light accentuates her natural skin topography, revealing a fine, textured skin grain, visible skin pores on her cheeks and T-zone, and subtle, goosebump-like tactile texture (cutis anserina) along her shoulder and neck due to the cool room air. There is fine vellus hair (peach fuzz) visibly catching the rim light along her cheek and jawline. Her skin shows a natural, matte to slightly dewy finish, with tiny, non-perfect specs of natural pigmentation, uneven skin tone, and natural micro-creases around her eyes and brow. The shadows on the unlit side of her face reveal natural translucency, with faint, visible blood vessels beneath her temple and a subtle flush on her cheeks from the natural blood flow (subsurface scattering)."
+            }
+          ]
+        },
+        {
+          "name": "Body & Limb Skin Details",
+          "items": [
+            {
+              "label": "Body grain & vellus hair",
+              "template": "natural body skin texture, visible epidermal grain, fine vellus hair (faint peach fuzz) along forearm and calf, tiny hair follicles, subtle natural skin mottling, irregular pigmentation, zero artificial smoothing, candid non-airbrushed skin."
+            },
+            {
+              "label": "Arm goosebumps (piloerection)",
+              "template": "subtle goosebumps (piloerection) on forearm and outer arm, tiny raised bumps on skin surface, fine vellus hairs standing slightly on end, tactile skin goosebumps (cutis anserina) catching soft side-light, natural gooseflesh on upper arm."
+            },
+            {
+              "label": "Joints & epidermal folds",
+              "template": "rougher natural skin texture on elbow, fine skin creases and deeper natural folds on wrist and joints, slightly darker pigment on outer knee, dry skin micro-texture, visible skin lines and epidermal folds, natural unretouched topography."
+            },
+            {
+              "label": "Shoulder freckles & collarbone sheen",
+              "template": "scattered sun freckles across shoulders, uneven skin tone and sun-kissed color, faint natural skin blemishes on upper back, subtle specular sheen on collarbone, fine peach fuzz catching backlighting, warm natural skin translucency."
+            }
+          ]
+        },
+        {
+          "name": "Skin tone",
+          "items": [
+            {
+              "label": "Fair",
+              "template": "Her skin tone is fair.",
+              "group": "skin_tone"
+            },
+            {
+              "label": "Olive",
+              "template": "Her skin tone is olive.",
+              "group": "skin_tone"
+            },
+            {
+              "label": "Tan",
+              "template": "Her skin tone is tan.",
+              "group": "skin_tone"
+            },
+            {
+              "label": "Deep",
+              "template": "Her skin tone is deep.",
+              "group": "skin_tone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Appearance & Expressions",
+      "categories": [
+        {
+          "name": "Facial Expressions",
+          "items": [
+            {
+              "label": "Show pleasure",
+              "template": "face shows pleasure, half-lidded eyes, parted lips, flushed cheeks and soft moan expression.",
+              "group": "expression"
+            },
+            {
+              "label": "Show pain",
+              "template": "face shows painful expression, furrowed brows, gritted teeth, tense neck muscles.",
+              "group": "expression"
+            },
+            {
+              "label": "Neutral expression",
+              "template": "She has a neutral expression.",
+              "group": "expression"
+            },
+            {
+              "label": "Gentle smile",
+              "template": "She has a gentle smile.",
+              "group": "expression"
+            },
+            {
+              "label": "Serious look",
+              "template": "She looks serious.",
+              "group": "expression"
+            }
+          ]
+        },
+        {
+          "name": "Hair (#)",
+          "items": [
+            {
+              "label": "Hair...",
+              "template": "Her hair is # and worn #.",
+              "slots": [
+                {
+                  "options": [
+                    "black",
+                    "dark brown",
+                    "light brown",
+                    "blonde",
+                    "red"
+                  ],
+                  "multi": false
+                },
+                {
+                  "options": [
+                    "loose",
+                    "in a ponytail",
+                    "in a bun",
+                    "in a braid"
+                  ],
+                  "multi": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Male Partner",
+      "items": [
+        {
+          "label": "Medium-brown skin man",
+          "template": "the man has medium-brown skin tone and a muscular build.",
+          "group": "man_skin"
+        },
+        {
+          "label": "Medium-white skin man",
+          "template": "the man has medium-white skin tone and a muscular build.",
+          "group": "man_skin"
+        },
+        {
+          "label": "Thick penis",
+          "template": "the man has a thick, girthy penis."
+        },
+        {
+          "label": "Long penis",
+          "template": "man has a long penis."
+        }
+      ]
+    },
+    {
+      "name": "Photo Style & Camera",
+      "categories": [
+        {
+          "name": "Lighting",
+          "items": [
+            {
+              "label": "Natural lighting",
+              "template": "the lighting is natural creating even illumination.",
+              "group": "lighting"
+            },
+            {
+              "label": "Natural window light",
+              "template": "soft natural window light creating even illumination and realistic soft shadows.",
+              "group": "lighting"
+            },
+            {
+              "label": "Warm indoor light",
+              "template": "warm indoor lighting with soft highlights and gentle falloff.",
+              "group": "lighting"
+            },
+            {
+              "label": "Cinematic lighting",
+              "template": "cinematic volumetric lighting with soft rim light and gentle dramatic shadows.",
+              "group": "lighting"
+            }
+          ]
+        },
+        {
+          "name": "Camera & Film Look",
+          "items": [
+            {
+              "label": "Smartphone photo",
+              "template": "Smartphone-like photo, candid photograph, low-quality overexposed photograph.",
+              "group": "camera"
+            },
+            {
+              "label": "DSLR camera 85mm",
+              "template": "professional photo taken with DSLR camera with 85mm lens.",
+              "group": "camera"
+            },
+            {
+              "label": "85mm portrait (f/1.8)",
+              "template": "shot on 85mm lens at f/1.8, shallow depth of field, professional portrait photography.",
+              "group": "camera"
+            },
+            {
+              "label": "35mm-equivalent lens",
+              "template": "shot on a 35mm-equivalent lens at roughly f/2.0 to f/2.8.",
+              "group": "camera"
+            },
+            {
+              "label": "24mm night shot (high ISO)",
+              "template": "A grainy low-light video still shot with a handheld wide-angle lens around 24mm at a high ISO and approximately f/2.0.",
+              "group": "camera"
+            },
+            {
+              "label": "Kodak Portra 400",
+              "template": "Kodak Portra 400 look, fine grain texture, soft pastel color grading, volumetric cinematic lighting.",
+              "group": "camera"
+            },
+            {
+              "label": "Raw documentary style",
+              "template": "shot on 35mm-equivalent lens at f/2.0 to f/2.8. raw documentary texture with video noise and compressed contrast.",
+              "group": "camera"
+            },
+            {
+              "label": "Professional photography",
+              "template": "masterpiece, best quality, highly detailed, intricate details, sharp focus, professional photography."
+            },
+            {
+              "label": "Subtle film grain",
+              "template": "photo has subtle film grain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quality & Preservations",
+      "items": [
+        {
+          "label": "Sharp detail (fix blur)",
+          "template": "remove motion blur and defocus blur. restore sharp edges and fine detail on the face, hair, clothing and entire body."
+        },
+        {
+          "label": "Preserve face",
+          "template": "do not change the face, eyes, hair, or facial features in any way."
+        },
+        {
+          "label": "Remove other people",
+          "template": "remove others except the woman."
+        },
+        {
+          "label": "Correct anatomy",
+          "template": "correct human anatomy, proper proportions, natural joint angles, no deformed limbs or fingers"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Keep unchanged",
+          "items": [
+            {
+              "label": "Keep unchanged...",
+              "template": "Keep the # unchanged.",
+              "options": [
+                "face",
+                "outfit",
+                "background",
+                "lighting",
+                "hairstyle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
